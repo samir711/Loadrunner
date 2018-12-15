@@ -1,0 +1,203 @@
+[API Trapper      (4c34:3324)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (5c44:5088)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (22b4: 660)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (4c34:54e0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4c34:54e0)] Load Network Traffic Analyzers:
+[Network Analyzer (4c34:54e0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (4c34:54e0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (4c34:54e0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (4c34:54e0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (4c34:54e0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (4c34:54e0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (4c34:54e0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (4c34:54e0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4c34: ca0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4003:0C04:0000:0000:0000:00BC - 5228  (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (4c34: ca0)] "GET /WebTours/index.htm"   
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Client -> Server @ : 513 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0810:0000:0000:0000:2003 - 443  (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 172.217.166.78:443   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (4c34: ca0)] "GET /WebTours/header.html"   
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Client -> Server @ : 566 bytes (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Client -> Server @ : 477 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0810:0000:0000:0000:200D - 443  (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Client -> Server @ : 509 bytes (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /WebTours/home.html"   
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Client -> Server @ : 605 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0809:0000:0000:0000:200A - 443  (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (4c34: ca0)] "GET /favicon.ico"   
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Client -> Server @ : 409 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0800:0000:0000:0000:200E - 443  (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0800:0000:0000:0000:2004 - 443  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (4c34:38ac)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:4614)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:4614)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:38ac)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:2b10)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:2b10)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:3a78)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 10) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:197c)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 11) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 10) Server -> Client : 295 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 11) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34:3a78)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 12) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:1dd8)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:1dd8)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:539c)]   (Sid: 12) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0810:0000:0000:0000:2003 - 80  (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (4c34:539c)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=70"   
+[Network Analyzer (4c34:539c)]   (Sid: 13) Client -> Server @ : 487 bytes (Service=HTTP)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 10) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:6484)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:539c)]   (Sid: 10) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34:6484)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 11) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 11) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 11) Server -> Client : 295 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 13) Server -> Client : 161 bytes  (Service=HTTP)
+[Network Analyzer (4c34:6438)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:6438)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 12) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 12) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34:4ad0)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:4ad0)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34: ca0)]   (Sid:  5) Connection Terminated (by Client)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 10) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 10) Server -> Client : 295 bytes  (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (4c34:539c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (4c34:539c)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (4c34:539c)]   (Sid:  6) Connection Terminated (by Client)
+[Net An. Error    (4c34: a74)]   (Sid: 14) SSL handshake with remote server Failed!
+[Network Analyzer (4c34:539c)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (4c34:539c)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (4c34: ca0)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (4c34:539c)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (4c34: ca0)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0800:0000:0000:0000:2003 - 443  (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0800:0000:0000:0000:2003 - 443  (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (4c34:599c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:599c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 11) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 11) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34:4f6c)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:4f6c)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:539c)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (4c34:539c)]   (Sid: 16) Connection Terminated (by Client)
+[API Trapper      (4290:225c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 172.217.166.78:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (4c34:3578)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:3578)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34: ca0)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4003:0C04:0000:0000:0000:00BC - 443  (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (4c34:3ac4)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:3ac4)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (4c34:539c)]   (Sid: 18) Connection Terminated (by Client)
+[Net An. Error    (4c34:2030)]   (Sid: 19) SSL handshake with remote server Failed!
+[API Trapper      (44c4:3df4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[User action                 ] StartTransactionEvent Loging [Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 20)  PROXIED!
+[Net An. Error    (4c34:222c)]   (Sid: 20) SSL handshake with remote server Failed!
+[Network Analyzer (4c34:539c)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (4c34:539c)]   (Sid: 10) Connection Terminated (by Client)
+[WebMultiInProcNotify_x64:  (4c34:474c)] Insert Text Check: "To make reservations,please"
+[Network Analyzer (4c34:539c)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 216.58.203.206:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (4c34:55d8)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:55d8)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:197c)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 22) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (4c34: ca0)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Client -> Server @ : 743 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Client -> Server @ : 614 bytes (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (4c34: ca0)]   (Sid: 24) Client -> Server @ : 609 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 24) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (4c34: ca0)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4003:0C00:0000:0000:0000:00BC - 5228  (Service=)  (Sid= 25)  PROXIED!
+[User action                 ] EndTransactionEvent Loging [Network Analyzer (4c34:2a14)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:2a14)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:539c)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0810:0000:0000:0000:200E - 443  (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (4c34:5704)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:5704)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 22) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 22) Server -> Client : 295 bytes  (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 26) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Logoff [Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0800:0000:0000:0000:200E - 443  (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 2404:6800:4009:0800:0000:0000:0000:200E - 443  (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (4c34:59d0)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:59d0)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (4c34:539c)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (4c34:539c)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (4c34:539c)]   (Sid: 22) Server -> Client : 1515 bytes  (Service=HTTP)
+[Network Analyzer (4c34:36cc)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (4c34:36cc)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (4c34:539c)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (4c34:539c)]   (Sid: 28) Connection Terminated (by Client)
+[WebMultiInProcNotify_x64:  (4c34:474c)] Insert Text Check: "you can search for new flights"
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Web Request      (4c34: ca0)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Client -> Server @ : 626 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Client -> Server @ : 506 bytes (Service=HTTP)
+[Network Analyzer (4c34:54e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (4c34:54e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (4c34: ca0)] "GET /WebTours/home.html"   
+[Network Analyzer (4c34: ca0)]   (Sid: 30) Client -> Server @ : 602 bytes (Service=HTTP)
+[Network Analyzer (4c34: ca0)]   (Sid: 30) Server -> Client : 194 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent Logoff [Network Analyzer (4c34: ca0)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (4c34: ca0)]   (Sid: 29) Connection Terminated (by Server)

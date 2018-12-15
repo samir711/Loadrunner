@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day15Learning_AddingTransaction
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day15learning_addingtransaction\\logfile.log
+d:\loadrunnerscripts\day15learning_addingtransaction\\combined_Day15Learning_AddingTransaction.c
+d:\loadrunnerscripts\day15learning_addingtransaction\\pre_cci.c

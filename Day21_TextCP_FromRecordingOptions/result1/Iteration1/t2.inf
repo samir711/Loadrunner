@@ -1,0 +1,17 @@
+[t2]
+URL3=http://127.0.0.1:1080/WebTours/images/webtours.png
+SnapshotXmlFile=snapshot_2.xml
+URL4=http://127.0.0.1:1080/WebTours/images/hp_logo.png
+ContentType=text/html
+StepName=Url: header.html
+Total=4
+FileName1=t2.html
+FileName3=t1_1_webtours.png
+FileName2=t1_2_mer_login.gif
+RequestHeaderFile=t2_RequestHeader.txt
+FileName4=t1_0_hp_logo.png
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+URL1=http://127.0.0.1:1080/WebTours/header.html
+URL2=http://127.0.0.1:1080/WebTours/images/mer_login.gif

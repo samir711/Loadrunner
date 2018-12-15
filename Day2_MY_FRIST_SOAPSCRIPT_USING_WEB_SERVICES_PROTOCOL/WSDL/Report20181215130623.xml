@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="report_view.xsl"?>
+<Report time="Sat Dec 15 13:06:23 2018
+"><WSDLS><WSDL unc="D:\LoadRunnerScripts\Day2_MY_FRIST_SOAPSCRIPT_USING_WEB_SERVICES_PROTOCOL\WSDL\CountryInfoService\CountryInfoService.wso" name="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso"><msgs><msg severity="Error" xpath="" col="0" line="0"> WSDL file cannot be loaded</msg></msgs></WSDL></WSDLS></Report>

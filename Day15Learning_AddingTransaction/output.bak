@@ -1,0 +1,79 @@
+Virtual User Script started at : 11/26/2018 1:10:23 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Nov 26 2018 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day15Learning_AddingTransaction\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Login.
+Login.c(4): web_url("index.htm_2") started  	[MsgId: MMSG-26355]
+Login.c(4): Detected non-resource "http://127.0.0.1:1080/WebTours/header.html" in "http://127.0.0.1:1080/WebTours/index.htm"  	[MsgId: MMSG-26574]
+Login.c(4): Detected non-resource "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true" in "http://127.0.0.1:1080/WebTours/index.htm"  	[MsgId: MMSG-26574]
+Login.c(4): Found resource "http://127.0.0.1:1080/WebTours/images/hp_logo.png" in HTML "http://127.0.0.1:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(4): Found resource "http://127.0.0.1:1080/WebTours/images/webtours.png" in HTML "http://127.0.0.1:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Login.c(4): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Login.c(4): Detected non-resource "http://127.0.0.1:1080/WebTours/home.html" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Login.c(4): Found resource "http://127.0.0.1:1080/WebTours/images/mer_login.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Login.c(4): web_url("index.htm_2") was successful, 10071 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Login.c(13): web_url("header.html_2") started  	[MsgId: MMSG-26355]
+Login.c(13): Retrieving data from cache for "http://127.0.0.1:1080/WebTours/header.html"  	[MsgId: MMSG-26558]
+Login.c(13): Resource "http://127.0.0.1:1080/WebTours/images/hp_logo.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(13): Resource "http://127.0.0.1:1080/WebTours/images/webtours.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(13): web_url("header.html_2") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+Login.c(22): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Login.c(22): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Login.c(22): Detected non-resource "http://127.0.0.1:1080/WebTours/home.html" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Login.c(22): Retrieving data from cache for "http://127.0.0.1:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Login.c(22): Resource "http://127.0.0.1:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(22): web_url("welcome.pl_2") was successful, 2167 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Login.c(38): web_submit_data("login.pl_2") started  	[MsgId: MMSG-26355]
+Login.c(38): web_submit_data("login.pl_2") was successful, 795 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Login.
+Starting action BookingFlight.
+BookingFlight.c(8): web_url("welcome.pl_9") started  	[MsgId: MMSG-26355]
+BookingFlight.c(8): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+BookingFlight.c(8): Detected non-resource "http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+BookingFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/in_flights.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+BookingFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/itinerary.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+BookingFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/home.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+BookingFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/signoff.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+BookingFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/button_next.gif" in HTML "http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+BookingFlight.c(8): web_url("welcome.pl_9") was successful, 10000 body bytes, 2212 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+BookingFlight.c(22): web_submit_data("reservations.pl_12") started  	[MsgId: MMSG-26355]
+BookingFlight.c(22): Resource "http://127.0.0.1:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+BookingFlight.c(22): web_submit_data("reservations.pl_12") was successful, 2442 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+BookingFlight.c(50): web_submit_data("reservations.pl_13") started  	[MsgId: MMSG-26355]
+BookingFlight.c(50): Resource "http://127.0.0.1:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+BookingFlight.c(50): web_submit_data("reservations.pl_13") was successful, 2634 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+BookingFlight.c(72): web_submit_data("reservations.pl_14") started  	[MsgId: MMSG-26355]
+BookingFlight.c(72): Found resource "http://127.0.0.1:1080/WebTours/images/bookanother.gif" in HTML "http://127.0.0.1:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+BookingFlight.c(72): web_submit_data("reservations.pl_14") was successful, 3283 body bytes, 585 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action BookingFlight.
+Starting action CancelFlight.
+CancelFlight.c(8): web_url("welcome.pl_7") started  	[MsgId: MMSG-26355]
+CancelFlight.c(8): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+CancelFlight.c(8): Detected non-resource "http://127.0.0.1:1080/cgi-bin/itinerary.pl" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+CancelFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/flights.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+CancelFlight.c(8): Found resource "http://127.0.0.1:1080/WebTours/images/in_itinerary.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+CancelFlight.c(8): Resource "http://127.0.0.1:1080/WebTours/images/home.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+CancelFlight.c(8): Resource "http://127.0.0.1:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+CancelFlight.c(8): web_url("welcome.pl_7") was successful, 4419 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+CancelFlight.c(20): web_submit_data("itinerary.pl") started  	[MsgId: MMSG-26355]
+CancelFlight.c(20): web_submit_data("itinerary.pl") was successful, 887 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action CancelFlight.
+Starting action Logout.
+Logout.c(8): web_url("welcome.pl_4") started  	[MsgId: MMSG-26355]
+Logout.c(8): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Logout.c(8): Detected non-resource "http://127.0.0.1:1080/WebTours/home.html" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Logout.c(8): Retrieving data from cache for "http://127.0.0.1:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Logout.c(8): Resource "http://127.0.0.1:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Logout.c(8): web_url("welcome.pl_4") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Logout.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

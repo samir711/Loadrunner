@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\WebHttpHtml1
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\webhttphtml1\\logfile.log
+d:\loadrunnerscripts\webhttphtml1\\combined_WebHttpHtml1.c
+d:\loadrunnerscripts\webhttphtml1\\pre_cci.c

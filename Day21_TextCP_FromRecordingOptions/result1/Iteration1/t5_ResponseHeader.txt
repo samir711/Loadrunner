@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Content-Type-Options: nosniff
+X-Country: in
+X-Frame-Options: SAMEORIGIN
+X-Seed-Signature: MEQCIHui0wTkXZzb6xizy1yZoai8EtiIMQZERzh9ii4yVcPtAiAVEnjkKdnppLrgLxItb0p+nfMztx/FTRybj8vlXXvF6A==
+X-Xss-Protection: 1; mode=block
+Date: Sun, 09 Dec 2018 18:31:11 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+

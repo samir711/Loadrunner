@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day2_MY_FRIST_SOAPSCRIPT_USING_WEB_SERVICES_PROTOCOL
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day2_my_frist_soapscript_using_web_services_protocol\\logfile.log
+d:\loadrunnerscripts\day2_my_frist_soapscript_using_web_services_protocol\\combined_Day2_MY_FRIST_SOAPSCRIPT_USING_WEB_SERVICES_PROTOCOL.c
+d:\loadrunnerscripts\day2_my_frist_soapscript_using_web_services_protocol\\pre_cci.c

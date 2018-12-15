@@ -1,0 +1,12 @@
+<?xml-stylesheet href="..\web_service_call.xsl" type="text/xsl"?>
+<report vuGenInstallDir="C:\Program Files (x86)\HP\LoadRunner\">
+  <web_service_call>
+    <service name="CountryInfoService" />
+    <port name="CountryInfoServiceSoap" />
+    <operation name="CapitalCity" />
+    <wsdl location="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL" />
+    <address url="" />
+    <toolkit name=".Net" />
+    <aspect name="Positive Testing" />
+  </web_service_call>
+</report>

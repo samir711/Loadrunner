@@ -1,0 +1,10 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[Logout]
+SnapshotIndex=I1_Logout
+[Login]
+SnapshotIndex=I1_Login
+[BookingFlight]
+SnapshotIndex=I1_BookingFlight
+[CancelFlight]
+SnapshotIndex=I1_CancelFlight

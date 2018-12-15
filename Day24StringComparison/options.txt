@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day24StringComparison
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day24stringcomparison\\logfile.log
+d:\loadrunnerscripts\day24stringcomparison\\combined_Day24StringComparison.c
+d:\loadrunnerscripts\day24stringcomparison\\pre_cci.c

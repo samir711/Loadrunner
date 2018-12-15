@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day1WS_SOAP_SCRIPT_USING_HTTP_PROTOCOL
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day1ws_soap_script_using_http_protocol\\logfile.log
+d:\loadrunnerscripts\day1ws_soap_script_using_http_protocol\\combined_Day1WS_SOAP_SCRIPT_USING_HTTP_PROTOCOL.c
+d:\loadrunnerscripts\day1ws_soap_script_using_http_protocol\\pre_cci.c

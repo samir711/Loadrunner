@@ -1,0 +1,1 @@
+-usr "D:\LoadRunnerScripts\Day15Learning_AddingTransaction\Day15Learning_AddingTransaction.usr" -compile_only -out "D:\LoadRunnerScripts\Day15Learning_AddingTransaction\" -drv_log_file "D:\LoadRunnerScripts\Day15Learning_AddingTransaction\mdrv.log" -cfg "D:\LoadRunnerScripts\Day15Learning_AddingTransaction\default.cfg" -product_name vugen

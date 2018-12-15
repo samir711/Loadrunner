@@ -1,0 +1,19 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2018/11/24 06:59:51
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2018/11/24 07:01:35
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2018/11/24 10:27:06
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2018/11/24 10:44:28
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2018/11/24 11:20:02
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2018/11/24 11:21:42
+StartRecordingIsDst_6=0
+[UserHomePage]
+UserHomePage=https://go.microsoft.com/fwlink/p/?LinkId=619797&pc=UE01&ocid=UE01DHP
+[Security]
+UsingPersistForAuthentication=1
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36

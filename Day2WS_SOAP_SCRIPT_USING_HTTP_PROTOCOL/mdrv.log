@@ -1,0 +1,58 @@
+Virtual User Script started at : 12/15/2018 12:28:56 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 15 2018 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day2WS_SOAP_SCRIPT_USING_HTTP_PROTOCOL\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(6): web_add_header("Content-Type") started  	[MsgId: MMSG-26355]
+Action.c(6): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(6): web_add_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(7): web_add_auto_header("Accept-Encoding") started  	[MsgId: MMSG-26355]
+Action.c(7): web_add_auto_header("Accept-Encoding") was successful  	[MsgId: MMSG-26392]
+Action.c(8): web_add_auto_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(8): Warning -26597: Added header value is NULL, empty or contains white spaces only. It is added anyway  	[MsgId: MWAR-26597]
+Action.c(8): web_add_auto_header("SOAPAction") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(10): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(18): Notify: Transaction "CapitalCity" started.
+Action.c(21): web_custom_request("CaptialCity") started  	[MsgId: MMSG-26355]
+Action.c(21): t=689ms: 253-byte response headers for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(21):     HTTP/1.1 200 OK\r\n
+Action.c(21):     Cache-Control: private, max-age=0\r\n
+Action.c(21):     Content-Type: text/xml; charset=utf-8\r\n
+Action.c(21):     Content-Encoding: gzip\r\n
+Action.c(21):     Vary: Accept-Encoding\r\n
+Action.c(21):     Server: Microsoft-IIS/8.5\r\n
+Action.c(21):     Web-Service: DataFlex 18.2\r\n
+Action.c(21):     Date: Sat, 15 Dec 2018 06:58:54 GMT\r\n
+Action.c(21):     Content-Length: 309\r\n
+Action.c(21):     \r\n
+Action.c(21): t=701ms: 309-byte ENCODED response body received for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(21): t=702ms: 333-byte DECODED response body for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(21):     <?xml version="1.0" encoding="utf-8"?>\r\n
+Action.c(21):     <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n
+Action.c(21):       <soap:Body>\r\n
+Action.c(21):         <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n
+Action.c(21):           <m:CapitalCityResult>Ottawa</m:CapitalCityResult>\r\n
+Action.c(21):         </m:CapitalCityResponse>\r\n
+Action.c(21):       </soap:Body>\r\n
+Action.c(21):     </soap:Envelope>
+Action.c(21): HTML parsing not performed for Content-Type "text/xml" ("ParseHtmlContentType" Run-Time Setting is "TEXT"). URL="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso"  	[MsgId: MMSG-26548]
+Action.c(21): Registered web_reg_find successful for "Text=m:CapitalCityResponse" (count=2)  	[MsgId: MMSG-26364]
+Action.c(21): Registered web_reg_find successful for "Text=Country not found in the database"  	[MsgId: MMSG-26362]
+Action.c(21): web_custom_request("CaptialCity") was successful, 309 body bytes, 253 header bytes  	[MsgId: MMSG-26386]
+Action.c(36): Notify: Transaction "CapitalCity" ended with a "Pass" status (Duration: 0.5930 Wasted Time: 0.1204).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 26356), ended OK."

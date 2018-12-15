@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<services>
+  <service>
+    <name>CountryInfoService</name>
+    <id>0</id>
+    <ports>
+      <port>
+        <name>CountryInfoServiceSoap</name>
+        <id>0</id>
+      </port>
+      <port>
+        <name>CountryInfoServiceSoap12</name>
+        <id>1</id>
+      </port>
+    </ports>
+  </service>
+</services>

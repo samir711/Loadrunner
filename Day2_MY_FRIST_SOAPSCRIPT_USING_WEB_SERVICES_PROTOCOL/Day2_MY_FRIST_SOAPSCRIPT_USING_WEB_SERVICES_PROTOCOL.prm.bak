@@ -1,0 +1,16 @@
+[parameter:CapCity]
+ParamName="CapCity"
+IsEncrypt="NO"
+CurrentValue=""
+Type="Output"
+OriginalValue=""
+IsServer="NO"
+Prompt=""
+[parameter:Param_CapitalCityResult]
+ParamName="Param_CapitalCityResult"
+IsEncrypt="NO"
+CurrentValue=""
+Type="Output"
+OriginalValue=""
+IsServer="NO"
+Prompt=""

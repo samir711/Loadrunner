@@ -1,0 +1,6 @@
+[t42]
+FileName1=t42_seed.html
+URL1=http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=70
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_42.xml

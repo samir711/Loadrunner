@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day21_TextCP_FromRecordingOptions
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day21_textcp_fromrecordingoptions\\logfile.log
+d:\loadrunnerscripts\day21_textcp_fromrecordingoptions\\combined_Day21_TextCP_FromRecordingOptions.c
+d:\loadrunnerscripts\day21_textcp_fromrecordingoptions\\pre_cci.c

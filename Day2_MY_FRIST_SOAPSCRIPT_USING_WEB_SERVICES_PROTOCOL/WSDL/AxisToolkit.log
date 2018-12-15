@@ -1,0 +1,9 @@
+Sat Dec 15 13:06:26 IST 2018: Start logging .....
+Sat Dec 15 13:06:26 IST 2018: WSDL - http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso
+Sat Dec 15 13:06:27 IST 2018: null
+Sat Dec 15 13:06:27 IST 2018: WSDL2Java throw an exception:
+com.mercury.ws.exception.LiterateException
+	at com.mercury.ws.util.WSDL2JavaInvoker$NoneExitWSDL2Java.run(WSDL2JavaInvoker.java:358)
+	at com.mercury.ws.util.WSDL2JavaInvoker.invoke(WSDL2JavaInvoker.java:84)
+	at com.mercury.ws.generator.ProxyGenerator.generateProxy(ProxyGenerator.java:174)
+Sat Dec 15 13:06:27 IST 2018: null

@@ -1,0 +1,400 @@
+****** Start Log Message ******
+Web Recorder version : 12.50.1096.0 
+Recording Mode: HTML-based script
+Not recording headers
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 12.50.1096.0
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 349 ******
+GET /WebTours/index.htm HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+DNT: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+If-None-Match: "600000004f8f9-16e-4ddb733950340"
+If-Modified-Since: Mon, 27 May 2013 18:20:21 GMT
+
+
+$$$$$$ Request Header For Transaction With Id 349 Ended $$$$$$
+
+****** Response Header For Transaction With Id 349 ******
+HTTP/1.1 304 Not Modified
+Date: Fri, 23 Nov 2018 12:26:20 GMT
+Server: Apache/2.2.21 (Win32)
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+ETag: "600000004f8f9-16e-4ddb733950340"
+
+
+$$$$$$ Response Header For Transaction With Id 349 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 349 ****** (Location Flag : tFlagInsertEnd, Location ID : 349)
+	web_url("index.htm",
+		"URL=http://127.0.0.1:1080/WebTours/index.htm",
+		"Resource=0",
+		"Referer=",
+		"Snapshot=t7.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 349 Ended $$$$$$
+
+****** Request Header For Transaction With Id 352 ******
+GET /WebTours/header.html HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://127.0.0.1:1080/WebTours/index.htm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+If-None-Match: "600000004f8df-2c6-4ddb733950340"
+If-Modified-Since: Mon, 27 May 2013 18:20:21 GMT
+
+
+$$$$$$ Request Header For Transaction With Id 352 Ended $$$$$$
+
+****** Response Header For Transaction With Id 352 ******
+HTTP/1.1 304 Not Modified
+Date: Fri, 23 Nov 2018 12:26:21 GMT
+Server: Apache/2.2.21 (Win32)
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=99
+ETag: "600000004f8df-2c6-4ddb733950340"
+
+
+$$$$$$ Response Header For Transaction With Id 352 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/WebTours/index.htm
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 352 ****** (Location Flag : tFlagInsertEnd, Location ID : 352)
+	web_url("header.html",
+		"URL=http://127.0.0.1:1080/WebTours/header.html",
+		"Resource=0",
+		"Referer=http://127.0.0.1:1080/WebTours/index.htm",
+		"Snapshot=t8.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 352 Ended $$$$$$
+
+****** Request Header For Transaction With Id 354 ******
+GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://127.0.0.1:1080/WebTours/index.htm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 354 Ended $$$$$$
+
+****** Response Header For Transaction With Id 354 ******
+HTTP/1.1 200 OK
+Date: Fri, 23 Nov 2018 12:26:21 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&1542975981; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Thu, 22-Nov-2018 12:26:21 GMT
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 354 Ended $$$$$$
+
+****** Response Body For Transaction With Id 354 ******
+<!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ --->
+
+<html>
+<title>Web Tours</title>
+   <!-- Frame Set -->
+   <frameset cols="160,*" border="1" frameborder="1">
+      <!-- Navigation Frame -->
+      <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+      <!-- Home Frame -->
+      <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+   </frameset>
+</html>
+
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 354 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/WebTours/header.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 354 ****** (Location Flag : tFlagInsertEnd, Location ID : 354)
+	web_url("welcome.pl",
+		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://127.0.0.1:1080/WebTours/index.htm",
+		"Snapshot=t9.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 354 Ended $$$$$$
+
+****** Request Header For Transaction With Id 357 ******
+GET /WebTours/home.html HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MSO=SID&1542975981
+If-None-Match: "600000004f8e0-551-4ddb733950340"
+If-Modified-Since: Mon, 27 May 2013 18:20:21 GMT
+
+
+$$$$$$ Request Header For Transaction With Id 357 Ended $$$$$$
+
+****** Response Header For Transaction With Id 357 ******
+HTTP/1.1 304 Not Modified
+Date: Fri, 23 Nov 2018 12:26:21 GMT
+Server: Apache/2.2.21 (Win32)
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=98
+ETag: "600000004f8e0-551-4ddb733950340"
+
+
+$$$$$$ Response Header For Transaction With Id 357 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/welcome.pl?signOff=true
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 367 ******
+GET /cgi-bin/nav.pl?in=home HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MSO=SID&1542975981
+
+
+$$$$$$ Request Header For Transaction With Id 367 Ended $$$$$$
+
+****** Response Header For Transaction With Id 367 ******
+HTTP/1.1 200 OK
+Date: Fri, 23 Nov 2018 12:26:21 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Thu, 22 Nov 2018 12:26:21 GMT
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 367 Ended $$$$$$
+
+****** Response Body For Transaction With Id 367 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="124987.928797084ztcQAzzpfiHfDifHtpDQQfcf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 367 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/welcome.pl?signOff=true
+	The Node is NULL
+	/WebTours/home.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 370 ******
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+DNT: 1
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1080/WebTours/index.htm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MSO=SID&1542975981
+
+
+$$$$$$ Request Header For Transaction With Id 370 Ended $$$$$$
+
+****** Response Header For Transaction With Id 370 ******
+HTTP/1.1 404 Not Found
+Date: Fri, 23 Nov 2018 12:26:21 GMT
+Server: Apache/2.2.21 (Win32)
+Content-Length: 209
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 370 Ended $$$$$$
+
+****** Response Body For Transaction With Id 370 ******
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /favicon.ico was not found on this server.</p>
+</body></html>
+
+$$$$$$ Response Body For Transaction With Id 370 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/welcome.pl?signOff=true
+	/cgi-bin/nav.pl?in=home
+	Form: name= action=/cgi-bin/login.pl
+	/WebTours/home.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 414 ******
+GET /chrome-variations/seed?osname=win&channel=stable&milestone=70 HTTP/1.1
+Host: clientservices.googleapis.com
+Connection: keep-alive
+If-None-Match: CkjxsaCQxuwzxLtMvfGWyAO5PFXkHlT7WeObDirXvFOAy5aec3YyLthzs0wI2jMFCK/ZROOud/Jmu0cFBV8xGgK6KcpCa1VLp64QARogUE/GqbtzLuVIG1pPrFDwsr8v4rVee2nIrSb48z4z6SYgAQ==
+A-IM: x-bm,gzip
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept-Encoding: gzip, deflate
+
+
+$$$$$$ Request Header For Transaction With Id 414 Ended $$$$$$
+
+****** Response Header For Transaction With Id 414 ******
+HTTP/1.1 304 Not Modified
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Date: Fri, 23 Nov 2018 12:26:30 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 414 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/welcome.pl?signOff=true
+	/cgi-bin/nav.pl?in=home
+	Form: name= action=/cgi-bin/login.pl
+	/WebTours/home.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 414 ****** (Location Flag : tFlagInsertEnd, Location ID : 414)
+	web_url("seed",
+		"URL=http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=70",
+		"Resource=0",
+		"Referer=",
+		"Snapshot=t10.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 414 Ended $$$$$$
+

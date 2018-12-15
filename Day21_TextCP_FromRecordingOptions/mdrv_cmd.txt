@@ -1,0 +1,1 @@
+-usr "D:\LoadRunnerScripts\Day21_TextCP_FromRecordingOptions\Day21_TextCP_FromRecordingOptions.usr" -compile_only -out "D:\LoadRunnerScripts\Day21_TextCP_FromRecordingOptions\" -drv_log_file "D:\LoadRunnerScripts\Day21_TextCP_FromRecordingOptions\mdrv.log" -cfg "D:\LoadRunnerScripts\Day21_TextCP_FromRecordingOptions\default.cfg" -product_name vugen
