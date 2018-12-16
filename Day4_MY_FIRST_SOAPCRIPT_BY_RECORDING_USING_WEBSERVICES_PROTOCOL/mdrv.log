@@ -1,0 +1,65 @@
+Virtual User Script started at : 12/16/2018 9:02:37 PM
+Starting action vuser_init.
+Web Services replay version 12.50.0 for Windows 8; Toolkit: "NotDefined"; build 1096
+Run-Time Settings file: "D:\LoadRunnerScripts\Day4_MY_FIRST_SOAPCRIPT_BY_RECORDING_USING_WEBSERVICES_PROTOCOL\\default.cfg"
+Vuser directory: "D:\LoadRunnerScripts\Day4_MY_FIRST_SOAPCRIPT_BY_RECORDING_USING_WEBSERVICES_PROTOCOL"
+Vuser output directory: "D:\LoadRunnerScripts\Day4_MY_FIRST_SOAPCRIPT_BY_RECORDING_USING_WEBSERVICES_PROTOCOL\"
+LOCAL start date/time : 2018-12-16 21:02:37
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_add_auto_header("User-Agent") started  	[MsgId: MMSG-26355]
+Action.c(4): web_add_auto_header("User-Agent") was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_add_auto_header("User-Agent") started  	[MsgId: MMSG-26355]
+Action.c(6): web_add_auto_header("User-Agent") was successful  	[MsgId: MMSG-26392]
+Action.c(8): web_add_auto_header("User-Agent") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("User-Agent") was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_add_header("Content-Type") started  	[MsgId: MMSG-26355]
+Action.c(10): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(10): web_add_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(12): web_add_header("Accept-Encoding") started  	[MsgId: MMSG-26355]
+Action.c(12): web_add_header("Accept-Encoding") was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(16): Notify: Transaction "Capital" started.
+Action.c(18): SOAP request "CapitalCity" started
+Action.c(18): t=749ms: 253-byte response headers for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(18):     HTTP/1.1 200 OK\r\n
+Action.c(18):     Cache-Control: private, max-age=0\r\n
+Action.c(18):     Content-Type: text/xml; charset=utf-8\r\n
+Action.c(18):     Content-Encoding: gzip\r\n
+Action.c(18):     Vary: Accept-Encoding\r\n
+Action.c(18):     Server: Microsoft-IIS/8.5\r\n
+Action.c(18):     Web-Service: DataFlex 18.2\r\n
+Action.c(18):     Date: Sun, 16 Dec 2018 15:32:38 GMT\r\n
+Action.c(18):     Content-Length: 311\r\n
+Action.c(18):     \r\n
+Action.c(18): t=766ms: 311-byte ENCODED response body received for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(18): t=768ms: 336-byte DECODED response body for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(18):     <?xml version="1.0" encoding="utf-8"?>\r\n
+Action.c(18):     <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n
+Action.c(18):       <soap:Body>\r\n
+Action.c(18):         <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n
+Action.c(18):           <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n
+Action.c(18):         </m:CapitalCityResponse>\r\n
+Action.c(18):       </soap:Body>\r\n
+Action.c(18):     </soap:Envelope>
+Action.c(18): Notify: Saving Parameter "Resp = <?xml version="1.0" encoding="utf-8"?>\r\n<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n  <soap:Body>\r\n    <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n      <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n    </m:CapitalCityResponse>\r\n  </soap:Body>\r\n</soap:Envelope>".
+Action.c(18): SOAP request "CapitalCity" was successful
+Action.c(36): Notify: Parameter Substitution: parameter "Resp" =  "<?xml version="1.0" encoding="utf-8"?>\r\n<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n  <soap:Body>\r\n    <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n      <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n    </m:CapitalCityResponse>\r\n  </soap:Body>\r\n</soap:Envelope>"
+Action.c(36): "lr_xml_find" succeeded, 1 match processed
+Action.c(44): Notify: Transaction "Capital" ended with a "Pass" status (Duration: 0.6434 Wasted Time: 0.0507).
+Action.c(51): Notify: Parameter Substitution: parameter "Resp" =  "<?xml version="1.0" encoding="utf-8"?>\r\n<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n  <soap:Body>\r\n    <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n      <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n    </m:CapitalCityResponse>\r\n  </soap:Body>\r\n</soap:Envelope>"
+Action.c(51): Notify: Saving Parameter "Param_city = New Delhi".
+Action.c(51): "lr_xml_get_values" succeeded, 1 match processed
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Warning: Extension LrXml.dll reports error -1 on call to function ExtPerThreadTerminate
+Warning: Vuser failed to terminate extension.
+Vuser 0 (thread 16100), ended OK."

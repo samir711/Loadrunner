@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day4_MY_FIRST_SOAPSCRIPT_BY_IMPORTING_XML_FILE_WEBSERVICES_PROTOCOL
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day4_my_first_soapscript_by_importing_xml_file_webservices_protocol\\logfile.log
+d:\loadrunnerscripts\day4_my_first_soapscript_by_importing_xml_file_webservices_protocol\\combined_Day4_MY_FIRST_SOAPSCRIPT_BY_IMPORTING_XML_FILE_WEBSERVICES_PROTOCOL.c
+d:\loadrunnerscripts\day4_my_first_soapscript_by_importing_xml_file_webservices_protocol\\pre_cci.c

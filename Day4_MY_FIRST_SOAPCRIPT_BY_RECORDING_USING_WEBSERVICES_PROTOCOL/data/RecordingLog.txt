@@ -1,0 +1,81 @@
+[API Trapper      (5700:3f00)] Recording in 32-bit mode: C:\Program Files (x86)\SmartBear\SoapUI-5.4.0\bin\SoapUI-5.4.0.exe
+[Network Analyzer (5700:4a88)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5700:4a88)] Load Network Traffic Analyzers:
+[Network Analyzer (5700:4a88)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (5700:4a88)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (5700:4a88)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (5700:4a88)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (5700:4a88)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (5700:4a88)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (5700:4a88)]     Analyzer Module: WS_SOAP (value=)
+[Network Analyzer (5700:4a88)]     Analyzer Module: local_server (value=)
+[Network Analyzer (5700:4a88)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5700:7290)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5700:4a88)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:0D20:2099 - 80  (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (5700:6660)] "GET /version-update/soapui-updates-os.xml"   
+[Network Analyzer (5700:6660)]   (Sid:  1) Client -> Server @ : 190 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  1) Server -> Client : 497 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  1) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  1) Server -> Client : 553 bytes  (Service=HTTP)
+[Network Analyzer (5700:4a88)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:0D20:2099 - 80  (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (5700:6660)] "GET /version-update/soapui-updates-os.xml"   
+[Network Analyzer (5700:6660)]   (Sid:  2) Client -> Server @ : 223 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  2) Server -> Client : 2390 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (5700:6660)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (5700:6dd4)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:3239:2386 - 80  (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (5700:6660)] "GET /Appindex/soapui-starterpage.html?version=5.4.0"   
+[Network Analyzer (5700:6660)]   (Sid:  3) Client -> Server @ : 473 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  3) Server -> Client : 544 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (5700:6dd4)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:3239:2386 - 80  (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (5700:6660)] "GET /Appindex/soapui-starterpage.html?version=5.4.0"   
+[Network Analyzer (5700:6660)]   (Sid:  4) Client -> Server @ : 477 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  4) Server -> Client : 568 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (5700:6dd4)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:3239:2328 - 80  (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (5700:6660)] "GET /appindex/soapui-starterpage-home.html?version=5.4.0"   
+[Network Analyzer (5700:6660)]   (Sid:  5) Client -> Server @ : 489 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 2921 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 1459 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 4260 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 120 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Server -> Client : 1573 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (5700:2208)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:3EB1:C2E7 - 80  (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (5700:6660)] "GET /websamples.countryinfo/CountryInfoService.wso?WSDL"   
+[Network Analyzer (5700:6660)]   (Sid:  6) Client -> Server @ : 173 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 2680 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 2680 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Server -> Client : 1200 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (5700:5f74)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:FFFF:3EB1:C2E7 - 80  (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (5700:6660)] "POST /websamples.countryinfo/CountryInfoService.wso"   
+[Network Analyzer (5700:6660)]   (Sid:  7) Client -> Server @ : 601 bytes (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  7) Server -> Client : 564 bytes  (Service=HTTP)
+[Network Analyzer (5700:6660)]   (Sid:  7) Connection Terminated (by Client)

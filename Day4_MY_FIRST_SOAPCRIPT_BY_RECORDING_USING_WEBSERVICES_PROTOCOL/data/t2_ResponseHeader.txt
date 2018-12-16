@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml
+Content-Length: 1893
+Connection: keep-alive
+Last-Modified: Tue, 05 Dec 2017 09:12:49 GMT
+x-amz-meta-cb-modifiedtime: Tue, 05 Dec 2017 09:06:54 GMT
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Sun, 16 Dec 2018 03:59:58 GMT
+ETag: "8daf7487d1f7dc3fcc323dc191f1f94c"
+Age: 33917
+X-Cache: Hit from cloudfront
+Via: 1.1 4c92396efdf11663e80075088554d661.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: HYEBD0Gb37Z_zoofz6gGOQ6oMKhZMBI1Rb-trnE6Rf_Zz2w9074C7g==
+

@@ -1,0 +1,42 @@
+Virtual User Script started at : 12/17/2018 12:35:13 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 17 2018 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day4_MY_FIRST_RESTSCRIPT_BY_HTTP_HTML_PROTOCOL\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(28): Notify: Transaction "CREATE USERS" started.
+Action.c(31): web_custom_request("CREATE USERS") started  	[MsgId: MMSG-26355]
+Action.c(31): Warning: The string '"name": "samir","job": "leader"' with parameter delimiters is not a parameter.
+Action.c(31): t=1683ms: 539-byte response headers for "https://reqres.in/api/users" (RelFrameId=1, Internal ID=1)
+Action.c(31):     HTTP/1.1 201 Created\r\n
+Action.c(31):     Date: Sun, 16 Dec 2018 19:05:16 GMT\r\n
+Action.c(31):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(31):     Content-Length: 98\r\n
+Action.c(31):     Connection: keep-alive\r\n
+Action.c(31):     Set-Cookie: __cfduid=d500e3c123bd4f4b94f0f4892fde08c541544987116; expires=Mon, 16-Dec-19 1
+Action.c(31):     9:05:16 GMT; path=/; domain=.reqres.in; HttpOnly\r\n
+Action.c(31):     X-Powered-By: Express\r\n
+Action.c(31):     Access-Control-Allow-Origin: *\r\n
+Action.c(31):     ETag: W/"62-CppibI7LhTryEVqYTPfIPtmIhK4"\r\n
+Action.c(31):     Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/ex
+Action.c(31):     pect-ct"\r\n
+Action.c(31):     Server: cloudflare\r\n
+Action.c(31):     CF-RAY: 48a36ba4f8e368b4-CDG\r\n
+Action.c(31):     \r\n
+Action.c(31): t=1695ms: 98-byte response body for "https://reqres.in/api/users" (RelFrameId=1, Internal ID=1)
+Action.c(31):     {"{\\"name\\": \\"samir\\",\\"job\\": \\"leader\\"}":"","id":"491","createdAt":"2018-12-16
+Action.c(31):     T19:08:38.538Z"}
+Action.c(31): HTML parsing not performed for Content-Type "application/json" ("ParseHtmlContentType" Run-Time Setting is "TEXT"). URL="https://reqres.in/api/users"  	[MsgId: MMSG-26548]
+Action.c(31): web_custom_request("CREATE USERS") was successful, 98 body bytes, 539 header bytes  	[MsgId: MMSG-26386]
+Action.c(41): Notify: Transaction "CREATE USERS" ended with a "Pass" status (Duration: 1.6036 Wasted Time: 0.1202).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

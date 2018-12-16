@@ -1,0 +1,47 @@
+Virtual User Script started at : 12/16/2018 10:41:38 PM
+Starting action vuser_init.
+Web Services replay version 12.50.0 for Windows 8; Toolkit: "NotDefined"; build 1096
+Run-Time Settings file: "D:\LoadRunnerScripts\Day4_MY_FIRST_SOAPSCRIPT_BY_IMPORTING_XML_FILE_WEBSERVICES_PROTOCOL\\default.cfg"
+Vuser directory: "D:\LoadRunnerScripts\Day4_MY_FIRST_SOAPSCRIPT_BY_IMPORTING_XML_FILE_WEBSERVICES_PROTOCOL"
+Vuser output directory: "D:\LoadRunnerScripts\Day4_MY_FIRST_SOAPSCRIPT_BY_IMPORTING_XML_FILE_WEBSERVICES_PROTOCOL\"
+LOCAL start date/time : 2018-12-16 22:41:38
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): SOAP request "SOAP Request" started
+Action.c(3): t=692ms: 253-byte response headers for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(3):     HTTP/1.1 200 OK\r\n
+Action.c(3):     Cache-Control: private, max-age=0\r\n
+Action.c(3):     Content-Type: text/xml; charset=utf-8\r\n
+Action.c(3):     Content-Encoding: gzip\r\n
+Action.c(3):     Vary: Accept-Encoding\r\n
+Action.c(3):     Server: Microsoft-IIS/8.5\r\n
+Action.c(3):     Web-Service: DataFlex 18.2\r\n
+Action.c(3):     Date: Sun, 16 Dec 2018 17:11:39 GMT\r\n
+Action.c(3):     Content-Length: 311\r\n
+Action.c(3):     \r\n
+Action.c(3): t=704ms: 311-byte ENCODED response body received for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(3): t=705ms: 336-byte DECODED response body for "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso" (RelFrameId=1, Internal ID=1)
+Action.c(3):     <?xml version="1.0" encoding="utf-8"?>\r\n
+Action.c(3):     <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n
+Action.c(3):       <soap:Body>\r\n
+Action.c(3):         <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n
+Action.c(3):           <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n
+Action.c(3):         </m:CapitalCityResponse>\r\n
+Action.c(3):       </soap:Body>\r\n
+Action.c(3):     </soap:Envelope>
+Action.c(3): Notify: Saving Parameter "Resp = <?xml version="1.0" encoding="utf-8"?>\r\n<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n  <soap:Body>\r\n    <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n      <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n    </m:CapitalCityResponse>\r\n  </soap:Body>\r\n</soap:Envelope>".
+Action.c(3): SOAP request "SOAP Request" was successful
+Action.c(19): Notify: Parameter Substitution: parameter "Resp" =  "<?xml version="1.0" encoding="utf-8"?>\r\n<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">\r\n  <soap:Body>\r\n    <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">\r\n      <m:CapitalCityResult>New Delhi</m:CapitalCityResult>\r\n    </m:CapitalCityResponse>\r\n  </soap:Body>\r\n</soap:Envelope>"
+Action.c(19): "lr_xml_find" succeeded, 1 match processed
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Warning: Extension LrXml.dll reports error -1 on call to function ExtPerThreadTerminate
+Warning: Vuser failed to terminate extension.
+Vuser 0 (thread 20404), ended OK."

@@ -1,0 +1,12 @@
+GET /Appindex/soapui-starterpage.html?version=5.4.0 HTTP/1.1
+Accept-Language: en-us;q=0.8,en;q=0.7
+Accept-Encoding: gzip
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/604.1 (KHTML, like Gecko) JavaFX/8.0 Safari/604.1
+Upgrade-Insecure-Requests: 1
+Cache-Control: no-cache
+Pragma: no-cache
+Host: soapui.org
+Connection: keep-alive
+

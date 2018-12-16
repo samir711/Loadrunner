@@ -1,0 +1,40 @@
+Virtual User Script started at : 12/17/2018 12:15:36 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 17 2018 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day4_MY_FIRST_RESTSCRIPT_BY_HTTP_HTML_PROTOCOL\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(27): web_custom_request("CREATE USERS") started  	[MsgId: MMSG-26355]
+Action.c(27): Warning: The string '"name": "samir","job": "leader"' with parameter delimiters is not a parameter.
+Action.c(27): t=1660ms: 539-byte response headers for "https://reqres.in/api/users" (RelFrameId=1, Internal ID=1)
+Action.c(27):     HTTP/1.1 201 Created\r\n
+Action.c(27):     Date: Sun, 16 Dec 2018 18:45:39 GMT\r\n
+Action.c(27):     Content-Type: application/json; charset=utf-8\r\n
+Action.c(27):     Content-Length: 98\r\n
+Action.c(27):     Connection: keep-alive\r\n
+Action.c(27):     Set-Cookie: __cfduid=d11be93b29ca3ef8455bd305dc9b827fe1544985938; expires=Mon, 16-Dec-19 1
+Action.c(27):     8:45:38 GMT; path=/; domain=.reqres.in; HttpOnly\r\n
+Action.c(27):     X-Powered-By: Express\r\n
+Action.c(27):     Access-Control-Allow-Origin: *\r\n
+Action.c(27):     ETag: W/"62-Va9TmKByWOcAKkQ9Qm+l2w07V4I"\r\n
+Action.c(27):     Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/ex
+Action.c(27):     pect-ct"\r\n
+Action.c(27):     Server: cloudflare\r\n
+Action.c(27):     CF-RAY: 48a34ee54fe9a857-CDG\r\n
+Action.c(27):     \r\n
+Action.c(27): t=1682ms: 98-byte response body for "https://reqres.in/api/users" (RelFrameId=1, Internal ID=1)
+Action.c(27):     {"{\\"name\\": \\"samir\\",\\"job\\": \\"leader\\"}":"","id":"578","createdAt":"2018-12-16
+Action.c(27):     T18:49:01.009Z"}
+Action.c(27): HTML parsing not performed for Content-Type "application/json" ("ParseHtmlContentType" Run-Time Setting is "TEXT"). URL="https://reqres.in/api/users"  	[MsgId: MMSG-26548]
+Action.c(27): web_custom_request("CREATE USERS") was successful, 98 body bytes, 539 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

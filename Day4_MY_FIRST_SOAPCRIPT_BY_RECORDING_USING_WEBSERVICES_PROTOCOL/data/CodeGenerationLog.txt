@@ -1,0 +1,1866 @@
+WebServices notify: version 2 (12.50.1096.0)
+****** Start Log Message ******
+Web Recorder version : 12.50.1096.0 
+Recording Mode: HTML-based script
+Recording headers in list:
+	accept-charset
+	accept-encoding
+	accept-language
+	soapaction
+	user-agent
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-WS_SOAP
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 12.50.1096.0
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 61 ******
+GET /version-update/soapui-updates-os.xml HTTP/1.1
+User-Agent: Java/1.8.0_152
+Host: dl.eviware.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 61 Ended $$$$$$
+
+****** Response Header For Transaction With Id 61 ******
+HTTP/1.1 200 OK
+Content-Type: text/xml
+Content-Length: 1893
+Connection: keep-alive
+Last-Modified: Tue, 05 Dec 2017 09:12:49 GMT
+x-amz-meta-cb-modifiedtime: Tue, 05 Dec 2017 09:06:54 GMT
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Sun, 16 Dec 2018 03:59:58 GMT
+ETag: "8daf7487d1f7dc3fcc323dc191f1f94c"
+Age: 36693
+X-Cache: Hit from cloudfront
+Via: 1.1 a6302bbd5cfa93ebf28a43744445bad4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 9i7nV7Pfkoa4L_xs1XgZFpyCFTig2AtlraGwfd6VG31yxrK6A93Lew==
+
+
+$$$$$$ Response Header For Transaction With Id 61 Ended $$$$$$
+
+****** Response Body For Transaction With Id 61 ******
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="http://dl.eviware.com/soapuios/5.4.0/">
+  <entry targetMediaFileId="23" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x32-5.4.0.exe" newVersion="5.4.0" newMediaFileId="23" fileSize="136389672" bundledJre="windows-x86-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="196" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x32-5.4.0.sh" newVersion="5.4.0" newMediaFileId="196" fileSize="151431747" bundledJre="linux-x86-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="198" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-5.4.0.dmg" newVersion="5.4.0" newMediaFileId="198" fileSize="143149056" bundledJre="macosx-amd64-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="1215" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x64-5.4.0.exe" newVersion="5.4.0" newMediaFileId="1215" fileSize="140658728" bundledJre="windows-amd64-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="4755" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x64-5.4.0.sh" newVersion="5.4.0" newMediaFileId="4755" fileSize="148354437" bundledJre="linux-amd64-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+</updateDescriptor>
+
+
+$$$$$$ Response Body For Transaction With Id 61 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 61 ****** (Location Flag : tFlagInsertEnd, Location ID : 61)
+	web_url("soapui-updates-os.xml",
+		"URL=http://dl.eviware.com/version-update/soapui-updates-os.xml",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 61 Ended $$$$$$
+
+****** Request Header For Transaction With Id 66 ******
+GET /version-update/soapui-updates-os.xml HTTP/1.1
+X-Client-Application: install4j
+User-Agent: Java/1.8.0_152
+Host: dl.eviware.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 66 Ended $$$$$$
+
+****** Response Header For Transaction With Id 66 ******
+HTTP/1.1 200 OK
+Content-Type: text/xml
+Content-Length: 1893
+Connection: keep-alive
+Last-Modified: Tue, 05 Dec 2017 09:12:49 GMT
+x-amz-meta-cb-modifiedtime: Tue, 05 Dec 2017 09:06:54 GMT
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Sun, 16 Dec 2018 03:59:58 GMT
+ETag: "8daf7487d1f7dc3fcc323dc191f1f94c"
+Age: 36695
+X-Cache: Hit from cloudfront
+Via: 1.1 60276c945ec58972cc6306cf00aab714.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: eL1XJgMbZG9xkDYIAJ5rnbB1kqIdOaZrRLCDgv5JmOzGcoB0M8dZ9A==
+
+
+$$$$$$ Response Header For Transaction With Id 66 Ended $$$$$$
+
+****** Response Body For Transaction With Id 66 ******
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="http://dl.eviware.com/soapuios/5.4.0/">
+  <entry targetMediaFileId="23" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x32-5.4.0.exe" newVersion="5.4.0" newMediaFileId="23" fileSize="136389672" bundledJre="windows-x86-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="196" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x32-5.4.0.sh" newVersion="5.4.0" newMediaFileId="196" fileSize="151431747" bundledJre="linux-x86-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="198" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-5.4.0.dmg" newVersion="5.4.0" newMediaFileId="198" fileSize="143149056" bundledJre="macosx-amd64-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="1215" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x64-5.4.0.exe" newVersion="5.4.0" newMediaFileId="1215" fileSize="140658728" bundledJre="windows-amd64-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+  <entry targetMediaFileId="4755" updatableVersionMin="" updatableVersionMax="" fileName="SoapUI-x64-5.4.0.sh" newVersion="5.4.0" newMediaFileId="4755" fileSize="148354437" bundledJre="linux-amd64-1.8.0_152" archive="false">
+	<comment language="en">
+		http://dl.eviware.com/version-update/versiontracker/update-dialog-os.html
+	</comment>
+  </entry>
+</updateDescriptor>
+
+
+$$$$$$ Response Body For Transaction With Id 66 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/version-update/soapui-updates-os.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 66 ****** (Location Flag : tFlagInsertEnd, Location ID : 66)
+	web_url("soapui-updates-os.xml_2",
+		"URL=http://dl.eviware.com/version-update/soapui-updates-os.xml",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t5.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 66 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 61)
+	web_add_auto_header("User-Agent",
+		"Java/1.8.0_152");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 73 ******
+GET /Appindex/soapui-starterpage.html?version=5.4.0 HTTP/1.1
+Accept-Language: en-us;q=0.8,en;q=0.7
+Accept-Encoding: gzip
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/604.1 (KHTML, like Gecko) JavaFX/8.0 Safari/604.1
+Upgrade-Insecure-Requests: 1
+Cache-Control: no-cache
+Pragma: no-cache
+Host: soapui.org
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 73 Ended $$$$$$
+
+****** Response Header For Transaction With Id 73 ******
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: http://www.soapui.org/Appindex/soapui-starterpage.html?version=5.4.0
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Sun, 16 Dec 2018 14:11:41 GMT
+Connection: close
+Content-Length: 278
+
+
+$$$$$$ Response Header For Transaction With Id 73 Ended $$$$$$
+
+****** Response Body For Transaction With Id 73 ******
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1><p>The document has moved <a href="http://www.soapui.org/Appindex/soapui-starterpage.html?version=5.4.0">here</a>.</p>
+</body></html>
+$$$$$$ Response Body For Transaction With Id 73 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/version-update/soapui-updates-os.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 79 ******
+GET /Appindex/soapui-starterpage.html?version=5.4.0 HTTP/1.1
+Accept-Language: en-us;q=0.8,en;q=0.7
+Accept-Encoding: gzip
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/604.1 (KHTML, like Gecko) JavaFX/8.0 Safari/604.1
+Upgrade-Insecure-Requests: 1
+Cache-Control: no-cache
+Pragma: no-cache
+Host: www.soapui.org
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 79 Ended $$$$$$
+
+****** Response Header For Transaction With Id 79 ******
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: http://smartbearsoftware.com/appindex/soapui-starterpage-home.html?version=5.4.0
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Sun, 16 Dec 2018 14:11:43 GMT
+Connection: close
+Content-Length: 290
+
+
+$$$$$$ Response Header For Transaction With Id 79 Ended $$$$$$
+
+****** Response Body For Transaction With Id 79 ******
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1><p>The document has moved <a href="http://smartbearsoftware.com/appindex/soapui-starterpage-home.html?version=5.4.0">here</a>.</p>
+</body></html>
+$$$$$$ Response Body For Transaction With Id 79 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/version-update/soapui-updates-os.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 85 ******
+GET /appindex/soapui-starterpage-home.html?version=5.4.0 HTTP/1.1
+Accept-Language: en-us;q=0.8,en;q=0.7
+Accept-Encoding: gzip
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/604.1 (KHTML, like Gecko) JavaFX/8.0 Safari/604.1
+Upgrade-Insecure-Requests: 1
+Cache-Control: no-cache
+Pragma: no-cache
+Host: smartbearsoftware.com
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 85 Ended $$$$$$
+
+****** Response Header For Transaction With Id 85 ******
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Tue, 28 Aug 2018 15:07:16 GMT
+Accept-Ranges: bytes
+ETag: "a9145cfe03ed41:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Date: Sun, 16 Dec 2018 14:11:50 GMT
+Content-Length: 14370
+
+
+$$$$$$ Response Header For Transaction With Id 85 Ended $$$$$$
+
+****** Response Body For Transaction With Id 85 ******
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>soapUI starterpage home | Appindex</title>
+
+    <!-- TODO Do we need this? -->
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="author" content="SmartBear" />
+    <meta name="description" content="SoapUI, is the world leading Open Source Functional Testing tool for API Testing. It supports multiple protocols such as SOAP, REST, HTTP, JMS, AMF and JDBC. It supports functional tests, security tests, and virtualization." />
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate, max-age=0, post-check=0, pre-check=0" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="expires" content="-1" />
+  
+    <meta charset="utf-8">
+    <!--meta http-equiv="refresh" content="30" -->
+    <!-- Google Analytics/Universal Analytics-->
+    <!-- script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-92447-21', 'auto');
+ga('send', 'pageview');
+</script -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <style>
+    * {
+        font-family: "open sans", arial, sans-serif;
+    }
+    .container-fluid {
+        padding-left: 0px;
+        padding-right: 0px;
+        overflow: hidden;
+    }
+    h1 {
+        font-family: "open sans", arial, sans-serif;
+        font-size: 32px !important;
+    }
+    .header h1 {
+        display: inline-block;
+        padding-left: 7px;
+        margin-top: 15px;
+        color: #66B449 !important;
+        font-weight: 700 !important;
+    }
+    .pro-wrapper h1 {
+        color: #fff !important;
+        padding: 1% 0;
+        margin: 0px 0px 20px 0px;
+    }
+    h1 span {
+        font-weight: 900 !important;
+    }
+    .pro-wrapper h2 {
+        color: #fff;
+        font-weight: 100;
+    }
+    h5 {
+        color: #fff !important;
+        font-weight: 100 !important;
+        padding: 0% .3%;
+        margin: -10px 0 !important;
+        text-align: left !important;
+    }
+      
+.open-source-content h2 {
+    font-family: "open sans", arial, sans-serif;
+    font-size: 16px !important;
+    margin-bottom: 4px;
+    text-align: center;
+    margin-top: 2px;
+}
+      
+    h3 {
+        font-family: "open sans", arial, sans-serif;
+        font-size: 23px !important;
+        margin-bottom: 2% !important;
+        color: #fff !important;
+        font-weight: 700 !important;
+    }
+    .header {
+        background-color: #222;
+        padding-bottom: 20px;
+    }
+    .header-btn-wrapper {
+        text-align: right;
+    }
+    .header img {
+        max-width: 250px;
+        float: left;
+    }
+    .row {
+        padding: 15px 30px 5px;
+    }
+    .util-box {
+        border: 1px solid #ccc;
+        padding: 15px 20px 0 30px;
+        border-top: 10px solid #6cb33f;
+    }
+    .util-box ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+    p.intro {
+        font-weight: 100;
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .open-source-content {
+        padding: 5px 0;
+        margin-bottom: 15px;
+    }
+    .featured-webinar {
+        text-align: right;
+    }
+    .featured-webinar img {
+        width: 100%;
+    }
+    .pro-wrapper {
+        background-image: linear-gradient(to left, #0079c1, #004269);
+        background-color: #0079c1;
+        width: 100%;
+    }
+    .pro-content {
+        text-align: center;
+        padding: 00px 0 60px 0;
+    }
+    .pro-img-block {
+        max-height: 125px;
+        min-height: 115px;
+        margin: 0 auto;
+        display: none;
+    }
+    .pro-img-block img,
+    svg {
+        max-height: 85px !important;
+        margin: 10px auto;
+        -webkit-filter: grayscale(1);
+        filter: grayscale(1);
+    }
+    p.quote {
+        font-style: italic;
+        font-size: 24px;
+        font-weight: 100;
+        color: #fff;
+        margin-top: 15px;
+    }
+    .quote span {
+        font-weight: 700;
+        font-style: normal;
+    }
+    p.descriptionn img {
+        max-width: 90%;
+    }
+    .btn-success {
+        margin-right: 5%;
+    }
+    .btn-primary {
+        border: 0px !important;
+    }
+    .learn-more {
+        /* background-color: #007bff !important; */
+        border: 2px solid #007bff !important;
+        padding: 20px 50px !important;
+        width: auto !important;
+        color: #fff;
+        font-size: 22px !important;
+        margin-top: 30px;
+    }
+    .learn-more:hover {
+        color: #fff;
+        background-color: #0069d9;
+        border-color: #0062cc;
+    }
+    .header-btn {
+        padding: 20px 60px !important;
+        font-size: 20px !important;
+        font-weight: 700 !important;
+        margin: 7px 5px;
+    }
+    .try-btn {
+        background-color: #6cb33f !important;
+    }
+    .util-box li a {
+        border: 1px solid;
+        margin: 2.5px auto;
+        display: inline-block;
+        padding: 5px 5px;
+        width: 100%;
+        text-align: center;
+        background: #6cb33f;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
+    .footer {
+        width: 100%;
+        height: 175px;
+        background-color: black;
+    }
+    .grey-box {
+        background-color: grey;
+        width: 270px;
+        height: 200px;
+    }
+    .topic h2,
+    .right-row h2 {
+        color: #306B42;
+        font-family: "open sans", arial, sans-serif;
+        font-size: 22px;
+        text-align: left;
+        margin-bottom: 5%;
+        font-weight: 400;
+    }
+    .topic p {
+        height: 144px;
+        font-family: "open sans", arial, sans-serif;
+        font-size: 13px;
+        text-align: left;
+        font-weight: 300;
+    }
+    li span a {
+        color: black;
+    }
+    a.btn.learn-more {
+        background-color: #6cb33f;
+        border: 1px solid #6cb33f !important;
+        color: #fff;
+        box-shadow: 0px;
+        transition: box-shadow .3s ease-in-out;
+    }
+    a.btn.learn-more:hover {
+        box-shadow: 0 0 20px -3px #000;
+    }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="header">
+            <div class="row">
+                <div class="col-md-8">
+                    <img src="./images/SoapUI-Logo-starter.png" alt="soupui">
+                    <h1>Open Source</h1>
+                </div>
+                <div class="col-md-4">
+                    <div class="header-btn-wrapper">
+                        <a class="btn btn-primary header-btn buy-btn" href="https://www.soapui.org/professional/soapui-pro/free-trial.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Try SoapUI Pro</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section open-source-content">
+            <div class="row">
+                <div class="col-md-8">
+                    <!--<p class="intro">SoapUI is a <
+>free, open source</strong> cross-platform functional testing solution for SOAP and REST APIs and web services. For over 10 years, SoapUI has been the most trusted API testing solution in the world for developers and testers alike.</p>-->
+                    <div class="row" style="padding:0px !important;">
+                        <div class="col-md-4">
+                            <div class="util-box">
+                                <h2>Getting Started</h2>
+                                <ul>
+                                    <li><span><a href="https://www.soapui.org/getting-started/your-first-soapui-project.html#rest?utm_source=soapui&utm_medium=starterpage" target="_blank">Test a REST API </a></span></li>
+                                    <li><span><a href="https://www.soapui.org/getting-started/your-first-soapui-project.html#soap?utm_source=soapui&utm_medium=starterpage" target="_blank" >Test a SOAP API</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/getting-started/10-tips-for-the-soapui-beginner.html?utm_source=soapui&utm_medium=starterpage" target="_blank">10 Tips for Beginners</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="util-box">
+                                <h2>Sample Projects</h2>
+                                <ul>
+                                    <li><span><a href="https://www.soapui.org/tutorials/rest-sample-project.html?utm_source=soapui&utm_medium=starterpage" target="_blank">REST API</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/tutorials/soap-sample-project.html?utm_source=soapui&utm_medium=starterpage" target="_blank">SOAP API</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/tutorials/aws.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Amazon Web Service</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="util-box">
+                                <h2>Useful Resources</h2>
+                                <ul>
+                                    <li><span><a href="https://www.soapui.org/soapui-projects/soapui-projects.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Documentation</a></span></li>
+                                    <li><span><a href="https://community.smartbear.com/t5/Open-Source-Tools/ct-p/OpenSource?utm_source=soapui&utm_medium=starterpage" target="_blank">Community</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/training/on-demand-training.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Get Certified</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <!--<h4>Featured Content</h4>-->
+                    <div class="featured-webinar">
+                        <a href="https://smartbear.com/connect-2018/?utm_source=soapui&utm_medium=starterpage" title="Learn more about SmartBear Connect" target="_blank"><img src="./images/SBC18_GP_SB-Overview_Register-starter.png" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pro-wrapper">
+            <div class="section pro-content">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1><span>Reduce API Testing Time By 75% With SoapUI Pro</span></h1>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pro-content-block">
+                            <p class="descriptionn"><img src="./images/ReadyAPI-Dashboard-starter.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pro-quote-block">
+                            <!--<h2>75% Faster Test Creation</h2>-->
+                            <p class="quote">"Test automation has always been challenging for development teams and business stakeholders alike. <strong>SoapUI Pro</strong> is the tool of choice to fully automate Kinguin's newly developed <strong>Restful API services.</strong> "
+                                <br>
+                                <strong>— Andreas Maier, CTO, Kinguin Games</strong>
+                            </p>
+                            <div class="col-md-12">
+                                <a href="https://www.soapui.org/professional/soapui-pro/free-trial.html?utm_source=soapui&utm_medium=starterpage" class="btn learn-more" target="_blank">Try SoapUI Pro</a>
+                            </div>
+                        </div>
+                        <!-- <div class="col-md-3">
+              <h3>Powerful Integrations</h3>
+                            <div class="pro-img-block">
+              <i class="fas fa-puzzle-piece"></i>
+            </div>
+              <p class="description">Integrate with your favorite tools in the SDLC toolset including Github, Jira, AlertSite, and more.</p>
+              <a href="" class="btn btn-primary">Learn More</a>
+              <p class="quote"></p>
+            </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+  
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-92447-6']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['t2._setAccount', 'UA-92447-11']);
+    _gaq.push(['t2._setDomainName', 'none']);
+    _gaq.push(['t2._setAllowLinker', true]);
+    _gaq.push(['t2._setAllowHash', false]);
+    _gaq.push(['t2._setCustomVar', 1, 'UserType', 'OpenSource', 1]);
+    _gaq.push(['t2._trackPageview']);
+    (function()
+        {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        }
+    )();
+    </script>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0040/0639.js" async="async"></script>
+  
+</html>
+$$$$$$ Response Body For Transaction With Id 85 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/version-update/soapui-updates-os.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 85 ****** (Location Flag : tFlagInsertEnd, Location ID : 85)
+	web_url("soapui-starterpage.html",
+		"URL=http://soapui.org/Appindex/soapui-starterpage.html?version=5.4.0",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 85 Ended $$$$$$
+
+****** Request Header For Transaction With Id 97 ******
+GET /websamples.countryinfo/CountryInfoService.wso?WSDL HTTP/1.1
+Host: webservices.oorsprong.org
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+$$$$$$ Request Header For Transaction With Id 97 Ended $$$$$$
+
+****** Response Header For Transaction With Id 97 ******
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=0
+Content-Type: text/xml; charset=utf-8
+Server: Microsoft-IIS/8.5
+Web-Service: DataFlex 18.2
+Date: Sun, 16 Dec 2018 14:14:34 GMT
+Content-Length: 37172
+
+
+$$$$$$ Response Header For Transaction With Id 97 Ended $$$$$$
+
+****** Response Body For Transaction With Id 97 ******
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://www.oorsprong.org/websamples.countryinfo" name="CountryInfoService" targetNamespace="http://www.oorsprong.org/websamples.countryinfo">
+  <types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://www.oorsprong.org/websamples.countryinfo">
+      <xs:complexType name="tContinent">
+        <xs:sequence>
+          <xs:element name="sCode" type="xs:string"/>
+          <xs:element name="sName" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="tCurrency">
+        <xs:sequence>
+          <xs:element name="sISOCode" type="xs:string"/>
+          <xs:element name="sName" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="tCountryCodeAndName">
+        <xs:sequence>
+          <xs:element name="sISOCode" type="xs:string"/>
+          <xs:element name="sName" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="tCountryCodeAndNameGroupedByContinent">
+        <xs:sequence>
+          <xs:element name="Continent" type="tns:tContinent"/>
+          <xs:element name="CountryCodeAndNames" type="tns:ArrayOftCountryCodeAndName"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="tCountryInfo">
+        <xs:sequence>
+          <xs:element name="sISOCode" type="xs:string"/>
+          <xs:element name="sName" type="xs:string"/>
+          <xs:element name="sCapitalCity" type="xs:string"/>
+          <xs:element name="sPhoneCode" type="xs:string"/>
+          <xs:element name="sContinentCode" type="xs:string"/>
+          <xs:element name="sCurrencyISOCode" type="xs:string"/>
+          <xs:element name="sCountryFlag" type="xs:string"/>
+          <xs:element name="Languages" type="tns:ArrayOftLanguage"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="tLanguage">
+        <xs:sequence>
+          <xs:element name="sISOCode" type="xs:string"/>
+          <xs:element name="sName" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ArrayOftCountryCodeAndName">
+        <xs:sequence>
+          <xs:element name="tCountryCodeAndName" type="tns:tCountryCodeAndName" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ArrayOftLanguage">
+        <xs:sequence>
+          <xs:element name="tLanguage" type="tns:tLanguage" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ArrayOftContinent">
+        <xs:sequence>
+          <xs:element name="tContinent" type="tns:tContinent" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ArrayOftCurrency">
+        <xs:sequence>
+          <xs:element name="tCurrency" type="tns:tCurrency" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ArrayOftCountryCodeAndNameGroupedByContinent">
+        <xs:sequence>
+          <xs:element name="tCountryCodeAndNameGroupedByContinent" type="tns:tCountryCodeAndNameGroupedByContinent" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ArrayOftCountryInfo">
+        <xs:sequence>
+          <xs:element name="tCountryInfo" type="tns:tCountryInfo" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ListOfContinentsByName">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfContinentsByNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfContinentsByNameResult" type="tns:ArrayOftContinent"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfContinentsByCode">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfContinentsByCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfContinentsByCodeResult" type="tns:ArrayOftContinent"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCurrenciesByName">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCurrenciesByNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfCurrenciesByNameResult" type="tns:ArrayOftCurrency"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCurrenciesByCode">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCurrenciesByCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfCurrenciesByCodeResult" type="tns:ArrayOftCurrency"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CurrencyName">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCurrencyISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CurrencyNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CurrencyNameResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCountryNamesByCode">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCountryNamesByCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfCountryNamesByCodeResult" type="tns:ArrayOftCountryCodeAndName"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCountryNamesByName">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCountryNamesByNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfCountryNamesByNameResult" type="tns:ArrayOftCountryCodeAndName"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCountryNamesGroupedByContinent">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfCountryNamesGroupedByContinentResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfCountryNamesGroupedByContinentResult" type="tns:ArrayOftCountryCodeAndNameGroupedByContinent"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryName">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CountryNameResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryISOCode">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryName" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryISOCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CountryISOCodeResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CapitalCity">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CapitalCityResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CapitalCityResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryCurrency">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryCurrencyResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CountryCurrencyResult" type="tns:tCurrency"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryFlag">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryFlagResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CountryFlagResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryIntPhoneCode">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountryIntPhoneCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CountryIntPhoneCodeResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FullCountryInfo">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sCountryISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FullCountryInfoResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="FullCountryInfoResult" type="tns:tCountryInfo"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FullCountryInfoAllCountries">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FullCountryInfoAllCountriesResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="FullCountryInfoAllCountriesResult" type="tns:ArrayOftCountryInfo"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountriesUsingCurrency">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sISOCurrencyCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CountriesUsingCurrencyResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="CountriesUsingCurrencyResult" type="tns:ArrayOftCountryCodeAndName"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfLanguagesByName">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfLanguagesByNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfLanguagesByNameResult" type="tns:ArrayOftLanguage"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfLanguagesByCode">
+        <xs:complexType>
+          <xs:sequence/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ListOfLanguagesByCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="ListOfLanguagesByCodeResult" type="tns:ArrayOftLanguage"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="LanguageName">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sISOCode" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="LanguageNameResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="LanguageNameResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="LanguageISOCode">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="sLanguageName" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="LanguageISOCodeResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="LanguageISOCodeResult" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+  </types>
+  <message name="ListOfContinentsByNameSoapRequest">
+    <part name="parameters" element="tns:ListOfContinentsByName"/>
+  </message>
+  <message name="ListOfContinentsByNameSoapResponse">
+    <part name="parameters" element="tns:ListOfContinentsByNameResponse"/>
+  </message>
+  <message name="ListOfContinentsByCodeSoapRequest">
+    <part name="parameters" element="tns:ListOfContinentsByCode"/>
+  </message>
+  <message name="ListOfContinentsByCodeSoapResponse">
+    <part name="parameters" element="tns:ListOfContinentsByCodeResponse"/>
+  </message>
+  <message name="ListOfCurrenciesByNameSoapRequest">
+    <part name="parameters" element="tns:ListOfCurrenciesByName"/>
+  </message>
+  <message name="ListOfCurrenciesByNameSoapResponse">
+    <part name="parameters" element="tns:ListOfCurrenciesByNameResponse"/>
+  </message>
+  <message name="ListOfCurrenciesByCodeSoapRequest">
+    <part name="parameters" element="tns:ListOfCurrenciesByCode"/>
+  </message>
+  <message name="ListOfCurrenciesByCodeSoapResponse">
+    <part name="parameters" element="tns:ListOfCurrenciesByCodeResponse"/>
+  </message>
+  <message name="CurrencyNameSoapRequest">
+    <part name="parameters" element="tns:CurrencyName"/>
+  </message>
+  <message name="CurrencyNameSoapResponse">
+    <part name="parameters" element="tns:CurrencyNameResponse"/>
+  </message>
+  <message name="ListOfCountryNamesByCodeSoapRequest">
+    <part name="parameters" element="tns:ListOfCountryNamesByCode"/>
+  </message>
+  <message name="ListOfCountryNamesByCodeSoapResponse">
+    <part name="parameters" element="tns:ListOfCountryNamesByCodeResponse"/>
+  </message>
+  <message name="ListOfCountryNamesByNameSoapRequest">
+    <part name="parameters" element="tns:ListOfCountryNamesByName"/>
+  </message>
+  <message name="ListOfCountryNamesByNameSoapResponse">
+    <part name="parameters" element="tns:ListOfCountryNamesByNameResponse"/>
+  </message>
+  <message name="ListOfCountryNamesGroupedByContinentSoapRequest">
+    <part name="parameters" element="tns:ListOfCountryNamesGroupedByContinent"/>
+  </message>
+  <message name="ListOfCountryNamesGroupedByContinentSoapResponse">
+    <part name="parameters" element="tns:ListOfCountryNamesGroupedByContinentResponse"/>
+  </message>
+  <message name="CountryNameSoapRequest">
+    <part name="parameters" element="tns:CountryName"/>
+  </message>
+  <message name="CountryNameSoapResponse">
+    <part name="parameters" element="tns:CountryNameResponse"/>
+  </message>
+  <message name="CountryISOCodeSoapRequest">
+    <part name="parameters" element="tns:CountryISOCode"/>
+  </message>
+  <message name="CountryISOCodeSoapResponse">
+    <part name="parameters" element="tns:CountryISOCodeResponse"/>
+  </message>
+  <message name="CapitalCitySoapRequest">
+    <part name="parameters" element="tns:CapitalCity"/>
+  </message>
+  <message name="CapitalCitySoapResponse">
+    <part name="parameters" element="tns:CapitalCityResponse"/>
+  </message>
+  <message name="CountryCurrencySoapRequest">
+    <part name="parameters" element="tns:CountryCurrency"/>
+  </message>
+  <message name="CountryCurrencySoapResponse">
+    <part name="parameters" element="tns:CountryCurrencyResponse"/>
+  </message>
+  <message name="CountryFlagSoapRequest">
+    <part name="parameters" element="tns:CountryFlag"/>
+  </message>
+  <message name="CountryFlagSoapResponse">
+    <part name="parameters" element="tns:CountryFlagResponse"/>
+  </message>
+  <message name="CountryIntPhoneCodeSoapRequest">
+    <part name="parameters" element="tns:CountryIntPhoneCode"/>
+  </message>
+  <message name="CountryIntPhoneCodeSoapResponse">
+    <part name="parameters" element="tns:CountryIntPhoneCodeResponse"/>
+  </message>
+  <message name="FullCountryInfoSoapRequest">
+    <part name="parameters" element="tns:FullCountryInfo"/>
+  </message>
+  <message name="FullCountryInfoSoapResponse">
+    <part name="parameters" element="tns:FullCountryInfoResponse"/>
+  </message>
+  <message name="FullCountryInfoAllCountriesSoapRequest">
+    <part name="parameters" element="tns:FullCountryInfoAllCountries"/>
+  </message>
+  <message name="FullCountryInfoAllCountriesSoapResponse">
+    <part name="parameters" element="tns:FullCountryInfoAllCountriesResponse"/>
+  </message>
+  <message name="CountriesUsingCurrencySoapRequest">
+    <part name="parameters" element="tns:CountriesUsingCurrency"/>
+  </message>
+  <message name="CountriesUsingCurrencySoapResponse">
+    <part name="parameters" element="tns:CountriesUsingCurrencyResponse"/>
+  </message>
+  <message name="ListOfLanguagesByNameSoapRequest">
+    <part name="parameters" element="tns:ListOfLanguagesByName"/>
+  </message>
+  <message name="ListOfLanguagesByNameSoapResponse">
+    <part name="parameters" element="tns:ListOfLanguagesByNameResponse"/>
+  </message>
+  <message name="ListOfLanguagesByCodeSoapRequest">
+    <part name="parameters" element="tns:ListOfLanguagesByCode"/>
+  </message>
+  <message name="ListOfLanguagesByCodeSoapResponse">
+    <part name="parameters" element="tns:ListOfLanguagesByCodeResponse"/>
+  </message>
+  <message name="LanguageNameSoapRequest">
+    <part name="parameters" element="tns:LanguageName"/>
+  </message>
+  <message name="LanguageNameSoapResponse">
+    <part name="parameters" element="tns:LanguageNameResponse"/>
+  </message>
+  <message name="LanguageISOCodeSoapRequest">
+    <part name="parameters" element="tns:LanguageISOCode"/>
+  </message>
+  <message name="LanguageISOCodeSoapResponse">
+    <part name="parameters" element="tns:LanguageISOCodeResponse"/>
+  </message>
+  <portType name="CountryInfoServiceSoapType">
+    <operation name="ListOfContinentsByName">
+      <documentation>Returns a list of continents ordered by name.</documentation>
+      <input message="tns:ListOfContinentsByNameSoapRequest"/>
+      <output message="tns:ListOfContinentsByNameSoapResponse"/>
+    </operation>
+    <operation name="ListOfContinentsByCode">
+      <documentation>Returns a list of continents ordered by code.</documentation>
+      <input message="tns:ListOfContinentsByCodeSoapRequest"/>
+      <output message="tns:ListOfContinentsByCodeSoapResponse"/>
+    </operation>
+    <operation name="ListOfCurrenciesByName">
+      <documentation>Returns a list of currencies ordered by name.</documentation>
+      <input message="tns:ListOfCurrenciesByNameSoapRequest"/>
+      <output message="tns:ListOfCurrenciesByNameSoapResponse"/>
+    </operation>
+    <operation name="ListOfCurrenciesByCode">
+      <documentation>Returns a list of currencies ordered by code.</documentation>
+      <input message="tns:ListOfCurrenciesByCodeSoapRequest"/>
+      <output message="tns:ListOfCurrenciesByCodeSoapResponse"/>
+    </operation>
+    <operation name="CurrencyName">
+      <documentation>Returns the name of the currency (if found)</documentation>
+      <input message="tns:CurrencyNameSoapRequest"/>
+      <output message="tns:CurrencyNameSoapResponse"/>
+    </operation>
+    <operation name="ListOfCountryNamesByCode">
+      <documentation>Returns a list of all stored counties ordered by ISO code</documentation>
+      <input message="tns:ListOfCountryNamesByCodeSoapRequest"/>
+      <output message="tns:ListOfCountryNamesByCodeSoapResponse"/>
+    </operation>
+    <operation name="ListOfCountryNamesByName">
+      <documentation>Returns a list of all stored counties ordered by country name</documentation>
+      <input message="tns:ListOfCountryNamesByNameSoapRequest"/>
+      <output message="tns:ListOfCountryNamesByNameSoapResponse"/>
+    </operation>
+    <operation name="ListOfCountryNamesGroupedByContinent">
+      <documentation>Returns a list of all stored counties grouped per continent</documentation>
+      <input message="tns:ListOfCountryNamesGroupedByContinentSoapRequest"/>
+      <output message="tns:ListOfCountryNamesGroupedByContinentSoapResponse"/>
+    </operation>
+    <operation name="CountryName">
+      <documentation>Searches the database for a country by the passed ISO country code</documentation>
+      <input message="tns:CountryNameSoapRequest"/>
+      <output message="tns:CountryNameSoapResponse"/>
+    </operation>
+    <operation name="CountryISOCode">
+      <documentation>This function tries to found a country based on the passed country name.</documentation>
+      <input message="tns:CountryISOCodeSoapRequest"/>
+      <output message="tns:CountryISOCodeSoapResponse"/>
+    </operation>
+    <operation name="CapitalCity">
+      <documentation>Returns the  name of the captial city for the passed country code</documentation>
+      <input message="tns:CapitalCitySoapRequest"/>
+      <output message="tns:CapitalCitySoapResponse"/>
+    </operation>
+    <operation name="CountryCurrency">
+      <documentation>Returns the currency ISO code and name for the passed country ISO code</documentation>
+      <input message="tns:CountryCurrencySoapRequest"/>
+      <output message="tns:CountryCurrencySoapResponse"/>
+    </operation>
+    <operation name="CountryFlag">
+      <documentation>Returns a link to a picture of the country flag</documentation>
+      <input message="tns:CountryFlagSoapRequest"/>
+      <output message="tns:CountryFlagSoapResponse"/>
+    </operation>
+    <operation name="CountryIntPhoneCode">
+      <documentation>Returns the internation phone code for the passed ISO country code</documentation>
+      <input message="tns:CountryIntPhoneCodeSoapRequest"/>
+      <output message="tns:CountryIntPhoneCodeSoapResponse"/>
+    </operation>
+    <operation name="FullCountryInfo">
+      <documentation>Returns a struct with all the stored country information. Pass the ISO country code</documentation>
+      <input message="tns:FullCountryInfoSoapRequest"/>
+      <output message="tns:FullCountryInfoSoapResponse"/>
+    </operation>
+    <operation name="FullCountryInfoAllCountries">
+      <documentation>Returns an array with all countries and all the language information stored</documentation>
+      <input message="tns:FullCountryInfoAllCountriesSoapRequest"/>
+      <output message="tns:FullCountryInfoAllCountriesSoapResponse"/>
+    </operation>
+    <operation name="CountriesUsingCurrency">
+      <documentation>Returns a list of all countries that use the same currency code. Pass a ISO currency code</documentation>
+      <input message="tns:CountriesUsingCurrencySoapRequest"/>
+      <output message="tns:CountriesUsingCurrencySoapResponse"/>
+    </operation>
+    <operation name="ListOfLanguagesByName">
+      <documentation>Returns an array of languages ordered by name</documentation>
+      <input message="tns:ListOfLanguagesByNameSoapRequest"/>
+      <output message="tns:ListOfLanguagesByNameSoapResponse"/>
+    </operation>
+    <operation name="ListOfLanguagesByCode">
+      <documentation>Returns an array of languages ordered by code</documentation>
+      <input message="tns:ListOfLanguagesByCodeSoapRequest"/>
+      <output message="tns:ListOfLanguagesByCodeSoapResponse"/>
+    </operation>
+    <operation name="LanguageName">
+      <documentation>Find a language name based on the passed ISO language code</documentation>
+      <input message="tns:LanguageNameSoapRequest"/>
+      <output message="tns:LanguageNameSoapResponse"/>
+    </operation>
+    <operation name="LanguageISOCode">
+      <documentation>Find a language ISO code based on the passed language name</documentation>
+      <input message="tns:LanguageISOCodeSoapRequest"/>
+      <output message="tns:LanguageISOCodeSoapResponse"/>
+    </operation>
+  </portType>
+  <binding name="CountryInfoServiceSoapBinding" type="tns:CountryInfoServiceSoapType">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="ListOfContinentsByName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfContinentsByCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCurrenciesByName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCurrenciesByCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CurrencyName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCountryNamesByCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCountryNamesByName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCountryNamesGroupedByContinent">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryISOCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CapitalCity">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryCurrency">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryFlag">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryIntPhoneCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="FullCountryInfo">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="FullCountryInfoAllCountries">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountriesUsingCurrency">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfLanguagesByName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfLanguagesByCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="LanguageName">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="LanguageISOCode">
+      <soap:operation soapAction="" style="document"/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+  </binding>
+  <binding name="CountryInfoServiceSoapBinding12" type="tns:CountryInfoServiceSoapType">
+    <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="ListOfContinentsByName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfContinentsByCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCurrenciesByName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCurrenciesByCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CurrencyName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCountryNamesByCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCountryNamesByName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfCountryNamesGroupedByContinent">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryISOCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CapitalCity">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryCurrency">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryFlag">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountryIntPhoneCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="FullCountryInfo">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="FullCountryInfoAllCountries">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="CountriesUsingCurrency">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfLanguagesByName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="ListOfLanguagesByCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="LanguageName">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+    <operation name="LanguageISOCode">
+      <soap12:operation soapAction="" style="document"/>
+      <input>
+        <soap12:body use="literal"/>
+      </input>
+      <output>
+        <soap12:body use="literal"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="CountryInfoService">
+    <documentation>This DataFlex Web Service opens up country information. 2 letter ISO codes are used for Country code. There are functions to retrieve the used Currency, Language, Capital City, Continent and Telephone code.</documentation>
+    <port name="CountryInfoServiceSoap" binding="tns:CountryInfoServiceSoapBinding">
+      <soap:address location="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso"/>
+    </port>
+    <port name="CountryInfoServiceSoap12" binding="tns:CountryInfoServiceSoapBinding12">
+      <soap12:address location="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso"/>
+    </port>
+  </service>
+</definitions>
+
+$$$$$$ Response Body For Transaction With Id 97 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/appindex/soapui-starterpage-home.html?version=5.4.0
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 97 ****** (Location Flag : tFlagInsertEnd, Location ID : 97)
+	web_url("CountryInfoService.wso",
+		"URL=http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t7.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 97 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 85)
+	web_add_auto_header("User-Agent",
+		"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/604.1 (KHTML, like Gecko) JavaFX/8.0 Safari/604.1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 85)
+	web_add_header("Accept-Charset",
+		"ISO-8859-1,utf-8;q=0.7,*;q=0.7");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 85)
+	web_add_header("Accept-Encoding",
+		"gzip");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 85)
+	web_add_header("Accept-Language",
+		"en-us;q=0.8,en;q=0.7");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 128 ******
+POST /websamples.countryinfo/CountryInfoService.wso HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: text/xml;charset=UTF-8
+SOAPAction: ""
+Content-Length: 326
+Host: webservices.oorsprong.org
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+$$$$$$ Request Header For Transaction With Id 128 Ended $$$$$$
+
+****** Request Body For Transaction With Id 128 ******
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://www.oorsprong.org/websamples.countryinfo">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:CapitalCity>
+         <web:sCountryISOCode>IND</web:sCountryISOCode>
+      </web:CapitalCity>
+   </soapenv:Body>
+</soapenv:Envelope>
+$$$$$$ Request Body For Transaction With Id 128 Ended $$$$$$
+
+****** Response Header For Transaction With Id 128 ******
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=0
+Content-Type: text/xml; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+Web-Service: DataFlex 18.2
+Date: Sun, 16 Dec 2018 14:15:14 GMT
+Content-Length: 311
+
+
+$$$$$$ Response Header For Transaction With Id 128 Ended $$$$$$
+
+****** Response Body For Transaction With Id 128 ******
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:CapitalCityResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+      <m:CapitalCityResult>New Delhi</m:CapitalCityResult>
+    </m:CapitalCityResponse>
+  </soap:Body>
+</soap:Envelope>
+$$$$$$ Response Body For Transaction With Id 128 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/websamples.countryinfo/CountryInfoService.wso?WSDL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 128 ****** (Location Flag : tFlagInsertEnd, Location ID : 128)
+	web_custom_request("CountryInfoService.wso_2",
+		"URL=http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t8.inf",
+		"Mode=HTML",
+		"EncType=text/xml;charset=UTF-8",
+		"Body=<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:web=\"http://www.oorsprong.org/websamples.countryinfo\">\r\n"
+		"   <soapenv:Header/>\r\n"
+		"   <soapenv:Body>\r\n"
+		"      <web:CapitalCity>\r\n"
+		"         <web:sCountryISOCode>IND</web:sCountryISOCode>\r\n"
+		"      </web:CapitalCity>\r\n"
+		"   </soapenv:Body>\r\n"
+		"</soapenv:Envelope>",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 128 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 97)
+	web_add_auto_header("User-Agent",
+		"Apache-HttpClient/4.1.1 (java 1.5)");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+WebServices notify: Applying SOAP conversion on web_custom_request
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 128)
+	web_add_header("Accept-Encoding",
+		"gzip,deflate");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 128)
+	web_add_header("SOAPAction",
+		"\"\"");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+

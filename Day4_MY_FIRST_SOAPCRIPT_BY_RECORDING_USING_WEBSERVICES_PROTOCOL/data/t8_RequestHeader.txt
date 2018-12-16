@@ -1,0 +1,9 @@
+POST /websamples.countryinfo/CountryInfoService.wso HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: text/xml;charset=UTF-8
+SOAPAction: ""
+Content-Length: 326
+Host: webservices.oorsprong.org
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+

@@ -1,0 +1,11 @@
+[t3]
+FileName1=t3_soapui-updates-os.xml
+URL1=http://dl.eviware.com/version-update/soapui-updates-os.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

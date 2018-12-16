@@ -1,0 +1,365 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>soapUI starterpage home | Appindex</title>
+
+    <!-- TODO Do we need this? -->
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="author" content="SmartBear" />
+    <meta name="description" content="SoapUI, is the world leading Open Source Functional Testing tool for API Testing. It supports multiple protocols such as SOAP, REST, HTTP, JMS, AMF and JDBC. It supports functional tests, security tests, and virtualization." />
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate, max-age=0, post-check=0, pre-check=0" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="expires" content="-1" />
+  
+    <meta charset="utf-8">
+    <!--meta http-equiv="refresh" content="30" -->
+    <!-- Google Analytics/Universal Analytics-->
+    <!-- script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-92447-21', 'auto');
+ga('send', 'pageview');
+</script -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <style>
+    * {
+        font-family: "open sans", arial, sans-serif;
+    }
+    .container-fluid {
+        padding-left: 0px;
+        padding-right: 0px;
+        overflow: hidden;
+    }
+    h1 {
+        font-family: "open sans", arial, sans-serif;
+        font-size: 32px !important;
+    }
+    .header h1 {
+        display: inline-block;
+        padding-left: 7px;
+        margin-top: 15px;
+        color: #66B449 !important;
+        font-weight: 700 !important;
+    }
+    .pro-wrapper h1 {
+        color: #fff !important;
+        padding: 1% 0;
+        margin: 0px 0px 20px 0px;
+    }
+    h1 span {
+        font-weight: 900 !important;
+    }
+    .pro-wrapper h2 {
+        color: #fff;
+        font-weight: 100;
+    }
+    h5 {
+        color: #fff !important;
+        font-weight: 100 !important;
+        padding: 0% .3%;
+        margin: -10px 0 !important;
+        text-align: left !important;
+    }
+      
+.open-source-content h2 {
+    font-family: "open sans", arial, sans-serif;
+    font-size: 16px !important;
+    margin-bottom: 4px;
+    text-align: center;
+    margin-top: 2px;
+}
+      
+    h3 {
+        font-family: "open sans", arial, sans-serif;
+        font-size: 23px !important;
+        margin-bottom: 2% !important;
+        color: #fff !important;
+        font-weight: 700 !important;
+    }
+    .header {
+        background-color: #222;
+        padding-bottom: 20px;
+    }
+    .header-btn-wrapper {
+        text-align: right;
+    }
+    .header img {
+        max-width: 250px;
+        float: left;
+    }
+    .row {
+        padding: 15px 30px 5px;
+    }
+    .util-box {
+        border: 1px solid #ccc;
+        padding: 15px 20px 0 30px;
+        border-top: 10px solid #6cb33f;
+    }
+    .util-box ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+    p.intro {
+        font-weight: 100;
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .open-source-content {
+        padding: 5px 0;
+        margin-bottom: 15px;
+    }
+    .featured-webinar {
+        text-align: right;
+    }
+    .featured-webinar img {
+        width: 100%;
+    }
+    .pro-wrapper {
+        background-image: linear-gradient(to left, #0079c1, #004269);
+        background-color: #0079c1;
+        width: 100%;
+    }
+    .pro-content {
+        text-align: center;
+        padding: 00px 0 60px 0;
+    }
+    .pro-img-block {
+        max-height: 125px;
+        min-height: 115px;
+        margin: 0 auto;
+        display: none;
+    }
+    .pro-img-block img,
+    svg {
+        max-height: 85px !important;
+        margin: 10px auto;
+        -webkit-filter: grayscale(1);
+        filter: grayscale(1);
+    }
+    p.quote {
+        font-style: italic;
+        font-size: 24px;
+        font-weight: 100;
+        color: #fff;
+        margin-top: 15px;
+    }
+    .quote span {
+        font-weight: 700;
+        font-style: normal;
+    }
+    p.descriptionn img {
+        max-width: 90%;
+    }
+    .btn-success {
+        margin-right: 5%;
+    }
+    .btn-primary {
+        border: 0px !important;
+    }
+    .learn-more {
+        /* background-color: #007bff !important; */
+        border: 2px solid #007bff !important;
+        padding: 20px 50px !important;
+        width: auto !important;
+        color: #fff;
+        font-size: 22px !important;
+        margin-top: 30px;
+    }
+    .learn-more:hover {
+        color: #fff;
+        background-color: #0069d9;
+        border-color: #0062cc;
+    }
+    .header-btn {
+        padding: 20px 60px !important;
+        font-size: 20px !important;
+        font-weight: 700 !important;
+        margin: 7px 5px;
+    }
+    .try-btn {
+        background-color: #6cb33f !important;
+    }
+    .util-box li a {
+        border: 1px solid;
+        margin: 2.5px auto;
+        display: inline-block;
+        padding: 5px 5px;
+        width: 100%;
+        text-align: center;
+        background: #6cb33f;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
+    .footer {
+        width: 100%;
+        height: 175px;
+        background-color: black;
+    }
+    .grey-box {
+        background-color: grey;
+        width: 270px;
+        height: 200px;
+    }
+    .topic h2,
+    .right-row h2 {
+        color: #306B42;
+        font-family: "open sans", arial, sans-serif;
+        font-size: 22px;
+        text-align: left;
+        margin-bottom: 5%;
+        font-weight: 400;
+    }
+    .topic p {
+        height: 144px;
+        font-family: "open sans", arial, sans-serif;
+        font-size: 13px;
+        text-align: left;
+        font-weight: 300;
+    }
+    li span a {
+        color: black;
+    }
+    a.btn.learn-more {
+        background-color: #6cb33f;
+        border: 1px solid #6cb33f !important;
+        color: #fff;
+        box-shadow: 0px;
+        transition: box-shadow .3s ease-in-out;
+    }
+    a.btn.learn-more:hover {
+        box-shadow: 0 0 20px -3px #000;
+    }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="header">
+            <div class="row">
+                <div class="col-md-8">
+                    <img src="./images/SoapUI-Logo-starter.png" alt="soupui">
+                    <h1>Open Source</h1>
+                </div>
+                <div class="col-md-4">
+                    <div class="header-btn-wrapper">
+                        <a class="btn btn-primary header-btn buy-btn" href="https://www.soapui.org/professional/soapui-pro/free-trial.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Try SoapUI Pro</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section open-source-content">
+            <div class="row">
+                <div class="col-md-8">
+                    <!--<p class="intro">SoapUI is a <
+>free, open source</strong> cross-platform functional testing solution for SOAP and REST APIs and web services. For over 10 years, SoapUI has been the most trusted API testing solution in the world for developers and testers alike.</p>-->
+                    <div class="row" style="padding:0px !important;">
+                        <div class="col-md-4">
+                            <div class="util-box">
+                                <h2>Getting Started</h2>
+                                <ul>
+                                    <li><span><a href="https://www.soapui.org/getting-started/your-first-soapui-project.html#rest?utm_source=soapui&utm_medium=starterpage" target="_blank">Test a REST API </a></span></li>
+                                    <li><span><a href="https://www.soapui.org/getting-started/your-first-soapui-project.html#soap?utm_source=soapui&utm_medium=starterpage" target="_blank" >Test a SOAP API</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/getting-started/10-tips-for-the-soapui-beginner.html?utm_source=soapui&utm_medium=starterpage" target="_blank">10 Tips for Beginners</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="util-box">
+                                <h2>Sample Projects</h2>
+                                <ul>
+                                    <li><span><a href="https://www.soapui.org/tutorials/rest-sample-project.html?utm_source=soapui&utm_medium=starterpage" target="_blank">REST API</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/tutorials/soap-sample-project.html?utm_source=soapui&utm_medium=starterpage" target="_blank">SOAP API</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/tutorials/aws.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Amazon Web Service</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="util-box">
+                                <h2>Useful Resources</h2>
+                                <ul>
+                                    <li><span><a href="https://www.soapui.org/soapui-projects/soapui-projects.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Documentation</a></span></li>
+                                    <li><span><a href="https://community.smartbear.com/t5/Open-Source-Tools/ct-p/OpenSource?utm_source=soapui&utm_medium=starterpage" target="_blank">Community</a></span></li>
+                                    <li><span><a href="https://www.soapui.org/training/on-demand-training.html?utm_source=soapui&utm_medium=starterpage" target="_blank">Get Certified</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <!--<h4>Featured Content</h4>-->
+                    <div class="featured-webinar">
+                        <a href="https://smartbear.com/connect-2018/?utm_source=soapui&utm_medium=starterpage" title="Learn more about SmartBear Connect" target="_blank"><img src="./images/SBC18_GP_SB-Overview_Register-starter.png" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pro-wrapper">
+            <div class="section pro-content">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1><span>Reduce API Testing Time By 75% With SoapUI Pro</span></h1>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pro-content-block">
+                            <p class="descriptionn"><img src="./images/ReadyAPI-Dashboard-starter.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pro-quote-block">
+                            <!--<h2>75% Faster Test Creation</h2>-->
+                            <p class="quote">"Test automation has always been challenging for development teams and business stakeholders alike. <strong>SoapUI Pro</strong> is the tool of choice to fully automate Kinguin's newly developed <strong>Restful API services.</strong> "
+                                <br>
+                                <strong>— Andreas Maier, CTO, Kinguin Games</strong>
+                            </p>
+                            <div class="col-md-12">
+                                <a href="https://www.soapui.org/professional/soapui-pro/free-trial.html?utm_source=soapui&utm_medium=starterpage" class="btn learn-more" target="_blank">Try SoapUI Pro</a>
+                            </div>
+                        </div>
+                        <!-- <div class="col-md-3">
+              <h3>Powerful Integrations</h3>
+                            <div class="pro-img-block">
+              <i class="fas fa-puzzle-piece"></i>
+            </div>
+              <p class="description">Integrate with your favorite tools in the SDLC toolset including Github, Jira, AlertSite, and more.</p>
+              <a href="" class="btn btn-primary">Learn More</a>
+              <p class="quote"></p>
+            </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+  
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-92447-6']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['t2._setAccount', 'UA-92447-11']);
+    _gaq.push(['t2._setDomainName', 'none']);
+    _gaq.push(['t2._setAllowLinker', true]);
+    _gaq.push(['t2._setAllowHash', false]);
+    _gaq.push(['t2._setCustomVar', 1, 'UserType', 'OpenSource', 1]);
+    _gaq.push(['t2._trackPageview']);
+    (function()
+        {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        }
+    )();
+    </script>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0040/0639.js" async="async"></script>
+  
+</html>

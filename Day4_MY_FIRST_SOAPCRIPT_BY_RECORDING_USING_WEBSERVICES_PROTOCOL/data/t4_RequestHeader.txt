@@ -1,0 +1,6 @@
+GET /version-update/soapui-updates-os.xml HTTP/1.1
+User-Agent: Java/1.8.0_152
+Host: dl.eviware.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+

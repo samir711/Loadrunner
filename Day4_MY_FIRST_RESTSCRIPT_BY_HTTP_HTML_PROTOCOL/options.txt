@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day4_MY_FIRST_RESTSCRIPT_BY_HTTP_HTML_PROTOCOL
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day4_my_first_restscript_by_http_html_protocol\\logfile.log
+d:\loadrunnerscripts\day4_my_first_restscript_by_http_html_protocol\\combined_Day4_MY_FIRST_RESTSCRIPT_BY_HTTP_HTML_PROTOCOL.c
+d:\loadrunnerscripts\day4_my_first_restscript_by_http_html_protocol\\pre_cci.c

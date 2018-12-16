@@ -1,0 +1,11 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2018/12/16 13:18:48
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2018/12/16 13:24:57
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2018/12/16 14:11:12
+StartRecordingIsDst_3=0
+[User-Agent]
+User-Agent=Java/1.8.0_152
+[Security]
+UsingPersistForAuthentication=1

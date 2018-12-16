@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Tue, 28 Aug 2018 15:07:16 GMT
+Accept-Ranges: bytes
+ETag: "a9145cfe03ed41:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Date: Sun, 16 Dec 2018 14:11:50 GMT
+Content-Length: 14370
+

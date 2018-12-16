@@ -1,0 +1,11 @@
+[t6]
+FileName1=t6.html
+URL1=http://smartbearsoftware.com/appindex/soapui-starterpage-home.html?version=5.4.0
+Total=1
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_6.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
