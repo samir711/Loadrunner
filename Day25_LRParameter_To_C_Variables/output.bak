@@ -1,0 +1,21 @@
+Virtual User Script started at : 12/19/2018 1:49:46 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 19 2018 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day25_LRParameter_To_C_Variables\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action LR_Parameter_To_CVariables.
+LR_Parameter_To_CVariables.c(10): Notify: Parameter Substitution: parameter "LR_Param" =  "This is Load runner session "
+LR_Parameter_To_CVariables.c(11): Notify: Parameter Substitution: parameter "LR_Param" =  "This is Load runner session "
+LR_Parameter_To_CVariables.c(13): The value of sBuff is :  This is Load runner session 
+LR_Parameter_To_CVariables.c(14): The value of sBuff1 is :  This is Load runner session  and it is taught by kumar Gupta
+Ending action LR_Parameter_To_CVariables.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

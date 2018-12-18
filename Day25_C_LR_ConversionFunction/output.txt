@@ -1,0 +1,23 @@
+Virtual User Script started at : 12/19/2018 1:00:57 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 19 2018 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day25_C_LR_ConversionFunction\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(12): Notify: Saving Parameter "iParam = 100".
+Action.c(13): Notify: Saving Parameter "sParam = This is loadrunner session".
+Action.c(15): Notify: Saving Parameter "fParam = 10.26".
+Action.c(18): Notify: Saving Parameter "sParam = This is loadrunner session".
+Action.c(20): Notify: Saving Parameter "iParam = 100".
+Action.c(29): Notify: Saving Parameter "sMovieParam = I paid 10.26 dollar fo the movie Aquaman and the theater is a 100, main Street, CA".
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

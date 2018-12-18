@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day25_LRParameter_To_C_Variables
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day25_lrparameter_to_c_variables\\logfile.log
+d:\loadrunnerscripts\day25_lrparameter_to_c_variables\\combined_Day25_LRParameter_To_C_Variables.c
+d:\loadrunnerscripts\day25_lrparameter_to_c_variables\\pre_cci.c

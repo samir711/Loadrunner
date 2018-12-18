@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day25_C_LR_ConversionFunction
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day25_c_lr_conversionfunction\\logfile.log
+d:\loadrunnerscripts\day25_c_lr_conversionfunction\\combined_Day25_C_LR_ConversionFunction.c
+d:\loadrunnerscripts\day25_c_lr_conversionfunction\\pre_cci.c
