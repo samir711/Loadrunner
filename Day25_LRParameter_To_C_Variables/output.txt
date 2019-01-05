@@ -1,6 +1,6 @@
-Virtual User Script started at : 12/19/2018 1:54:03 AM
+Virtual User Script started at : 12/21/2018 11:58:38 AM
 Starting action vuser_init.
-Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 19 2018 16:55:24)  	[MsgId: MMSG-27143]
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Dec 21 2018 16:55:24)  	[MsgId: MMSG-27143]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
 Run-Time Settings file: "D:\LoadRunnerScripts\Day25_LRParameter_To_C_Variables\\default.cfg"  	[MsgId: MMSG-27141]
@@ -8,13 +8,10 @@ Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
-Starting action LR_Parameter_To_CVariables.
-LR_Parameter_To_CVariables.c(10): Notify: Parameter Substitution: parameter "LR_Param" =  "This is Load runner session "
-LR_Parameter_To_CVariables.c(11): Notify: Parameter Substitution: parameter "LR_Param" =  "This is Load runner session "
-LR_Parameter_To_CVariables.c(11): Notify: Parameter Substitution: parameter "LR_Param_1" =  "7"
-LR_Parameter_To_CVariables.c(14): The value of sBuff is :  This is Load runner session 
-LR_Parameter_To_CVariables.c(15): The value of sBuff1 is :  This is Load runner session  and it is taught by kumar Gupta. Session starts at 7
-Ending action LR_Parameter_To_CVariables.
+Starting action Convert_IntVariable_To_StringVariable_using_sPrintfFunction.
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction.c(13): The value of sOutput is 10
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction.c(14): The value of sOutput1 is 12.53
+Ending action Convert_IntVariable_To_StringVariable_using_sPrintfFunction.
 Ending iteration 1.
 Ending Vuser...
 Starting action vuser_end.

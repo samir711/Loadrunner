@@ -1,0 +1,5 @@
+USER anonymous
+PASS aaa@bbb.ccc
+TYPE I
+PASV
+RETR /1MB.zip

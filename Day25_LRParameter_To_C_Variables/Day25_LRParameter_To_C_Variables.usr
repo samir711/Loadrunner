@@ -22,6 +22,9 @@ Description=
 [Actions]
 vuser_init=vuser_init.c
 LR_Parameter_To_CVariables=LR_Parameter_To_CVariables.c
+LR_Paramter_To_Int=LR_Paramter_To_Int.c
+Convert_IntVariable_To_StringVariable_using_itoaFunction=Convert_IntVariable_To_StringVariable_using_itoaFunction.c
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction=Convert_IntVariable_To_StringVariable_using_sPrintfFunction.c
 vuser_end=vuser_end.c
 [RunLogicFiles]
 Default Profile=default.usp
@@ -34,18 +37,30 @@ globals.h=
 [Modified Actions]
 vuser_init=0
 LR_Parameter_To_CVariables=1
+LR_Paramter_To_Int=1
+Convert_IntVariable_To_StringVariable_using_itoaFunction=1
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
 LR_Parameter_To_CVariables=0
+LR_Paramter_To_Int=0
+Convert_IntVariable_To_StringVariable_using_itoaFunction=0
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction=0
 vuser_end=0
 [Replayed Actions]
 vuser_init=1
 LR_Parameter_To_CVariables=1
+LR_Paramter_To_Int=1
+Convert_IntVariable_To_StringVariable_using_itoaFunction=1
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction=1
 vuser_end=1
 [Interpreters]
 vuser_init=cci
 LR_Parameter_To_CVariables=cci
+LR_Paramter_To_Int=cci
+Convert_IntVariable_To_StringVariable_using_itoaFunction=cci
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction=cci
 vuser_end=cci
 [TransactionsOrder]
 Order=

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day26_ErrorHandling
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day26_errorhandling\\logfile.log
+d:\loadrunnerscripts\day26_errorhandling\\combined_Day26_ErrorHandling.c
+d:\loadrunnerscripts\day26_errorhandling\\pre_cci.c

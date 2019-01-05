@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day27_ErrorHandling _SaveCountAnd_web_get_int_property
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day27_errorhandling _savecountand_web_get_int_property\\logfile.log
+d:\loadrunnerscripts\day27_errorhandling _savecountand_web_get_int_property\\combined_Day27_ErrorHandling _SaveCountAnd_web_get_int_property.c
+d:\loadrunnerscripts\day27_errorhandling _savecountand_web_get_int_property\\pre_cci.c

@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 # SharpDevelop 4.1.3.0
-Project("879CD0D3-2E77-4253-8194-9DCBDE3412FA") = "Day25_LRParameter_To_C_Variables", "Day25_LRParameter_To_C_Variables\Day25_LRParameter_To_C_Variables.usr", "879CD0D3-2E77-4253-8194-9DCBDE3412FA"
+Project("61C11B9B-3467-43CA-8490-375A66B52296") = "Day28_FileUploading", "Day28_FileUploading\Day28_FileUploading.usr", "61C11B9B-3467-43CA-8490-375A66B52296"
 	ProjectSection(CustomLoading) = Data
-		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XExvYWRSdW5uZXJTY3JpcHRzXERheTI1X0xSUGFyYW1ldGVyX1RvX0NfVmFyaWFibGVzXERheTI1X0xSUGFyYW1ldGVyX1RvX0NfVmFyaWFibGVzLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5EOlxMb2FkUnVubmVyU2NyaXB0c1xEYXkyNV9MUlBhcmFtZXRlcl9Ub19DX1ZhcmlhYmxlc1xEYXkyNV9MUlBhcmFtZXRlcl9Ub19DX1ZhcmlhYmxlcy51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XExvYWRSdW5uZXJTY3JpcHRzXERheTI4X0ZpbGVVcGxvYWRpbmdcRGF5MjhfRmlsZVVwbG9hZGluZy51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+RDpcTG9hZFJ1bm5lclNjcmlwdHNcRGF5MjhfRmlsZVVwbG9hZGluZ1xEYXkyOF9GaWxlVXBsb2FkaW5nLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
 	EndProjectSection
 	ProjectSection(ExpandInVugen) = Data
 		Value = True
@@ -16,9 +16,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		879CD0D3-2E77-4253-8194-9DCBDE3412FA.Debug|Any CPU.Build.0 = Debug|Any CPU
-		879CD0D3-2E77-4253-8194-9DCBDE3412FA.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		879CD0D3-2E77-4253-8194-9DCBDE3412FA.Release|Any CPU.Build.0 = Release|Any CPU
-		879CD0D3-2E77-4253-8194-9DCBDE3412FA.Release|Any CPU.ActiveCfg = Release|Any CPU
+		61C11B9B-3467-43CA-8490-375A66B52296.Debug|Any CPU.Build.0 = Debug|Any CPU
+		61C11B9B-3467-43CA-8490-375A66B52296.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		61C11B9B-3467-43CA-8490-375A66B52296.Release|Any CPU.Build.0 = Release|Any CPU
+		61C11B9B-3467-43CA-8490-375A66B52296.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal

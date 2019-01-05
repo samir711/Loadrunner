@@ -2451,10 +2451,71 @@ LR_Parameter_To_CVariables()
 }
 # 5 "d:\\loadrunnerscripts\\day25_lrparameter_to_c_variables\\\\combined_Day25_LRParameter_To_C_Variables.c" 2
 
+# 1 "LR_Paramter_To_Int.c" 1
+LR_Paramter_To_Int()
+{
+	char *sBuff;
+	int iValue;
+	 
+	
+	 
+	 
+	
+	sBuff = lr_eval_string("{iParam}");
+	
+	 
+	
+	lr_output_message("The value of sBuff is %s", sBuff);
+	 
+	iValue = atoi(lr_eval_string("{iParam}"));
+	iValue = iValue + 2;
+	lr_output_message("The value of iValue is %d", iValue);
+	
+	
+	return 0;
+}
+# 6 "d:\\loadrunnerscripts\\day25_lrparameter_to_c_variables\\\\combined_Day25_LRParameter_To_C_Variables.c" 2
+
+# 1 "Convert_IntVariable_To_StringVariable_using_itoaFunction.c" 1
+Convert_IntVariable_To_StringVariable_using_itoaFunction()
+{
+	
+	int iValue = 10;
+	char sBuff[20];  
+	
+    itoa(iValue,sBuff,10);
+    lr_output_message("The value of sBuff is %s", sBuff);
+    
+
+		return 0;
+}
+# 7 "d:\\loadrunnerscripts\\day25_lrparameter_to_c_variables\\\\combined_Day25_LRParameter_To_C_Variables.c" 2
+
+# 1 "Convert_IntVariable_To_StringVariable_using_sPrintfFunction.c" 1
+Convert_IntVariable_To_StringVariable_using_sPrintfFunction()
+{
+	char sOutput[20];
+	char sOutput1[20];
+	int iValue = 10;
+	float fValue = 12.53;
+	
+	 
+    
+	sprintf(sOutput,"%d",iValue);
+	sprintf(sOutput1,"%0.2f",fValue);
+	
+    lr_output_message("The value of sOutput is %s", sOutput);
+    lr_output_message("The value of sOutput1 is %s", sOutput1);
+    
+
+	return 0;
+}
+# 8 "d:\\loadrunnerscripts\\day25_lrparameter_to_c_variables\\\\combined_Day25_LRParameter_To_C_Variables.c" 2
+
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "d:\\loadrunnerscripts\\day25_lrparameter_to_c_variables\\\\combined_Day25_LRParameter_To_C_Variables.c" 2
+# 9 "d:\\loadrunnerscripts\\day25_lrparameter_to_c_variables\\\\combined_Day25_LRParameter_To_C_Variables.c" 2
 

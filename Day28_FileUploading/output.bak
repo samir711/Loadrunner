@@ -1,0 +1,22 @@
+Virtual User Script started at : 1/5/2019 10:59:41 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Jan 05 2019 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\LoadRunnerScripts\Day28_FileUploading\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(9): web_url("Download 1MB file") started  	[MsgId: MMSG-26355]
+Action.c(9): web_url("Download 1MB file") was successful, 1048576 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+Action.c(18): web_get_int_property started  	[MsgId: MMSG-26355]
+Action.c(18): web_get_int_property was successful  	[MsgId: MMSG-26392]
+Action.c(20): 1048576
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

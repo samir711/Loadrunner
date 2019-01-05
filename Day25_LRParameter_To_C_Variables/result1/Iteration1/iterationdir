@@ -1,6 +1,6 @@
 [vuser_init]
 SnapshotIndex=I1_vuser_init
-[LR_Parameter_To_CVariables]
-SnapshotIndex=I1_LR_Parameter_To_CVariables
+[Convert_IntVariable_To_StringVariable_using_sPrintfFunction]
+SnapshotIndex=I1_Convert_IntVariable_To_StringVariable_using_sPrintfFunction
 [vuser_end]
 SnapshotIndex=I1_vuser_end

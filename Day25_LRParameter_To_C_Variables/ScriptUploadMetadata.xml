@@ -5,6 +5,9 @@
   <ActionFiles>
     <FileEntry Name="vuser_init.c" Filter="2" />
     <FileEntry Name="LR_Parameter_To_CVariables.c" Filter="2" />
+    <FileEntry Name="LR_Paramter_To_Int.c" Filter="2" />
+    <FileEntry Name="Convert_IntVariable_To_StringVariable_using_itoaFunction.c" Filter="2" />
+    <FileEntry Name="Convert_IntVariable_To_StringVariable_using_sPrintfFunction.c" Filter="2" />
     <FileEntry Name="vuser_end.c" Filter="2" />
   </ActionFiles>
   <GeneralFiles>
@@ -13,8 +16,8 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="Day25_LRParameter_To_C_Variables.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
-    <FileEntry Name="LR_Param.dat" Filter="2" />
     <FileEntry Name="LR_Param_1.dat" Filter="2" />
+    <FileEntry Name="LR_Param.dat" Filter="2" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="2" />
     <FileEntry Name="Bookmarks.xml" Filter="2" />
     <FileEntry Name="Breakpoints.xml" Filter="2" />
@@ -22,9 +25,11 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
     <FileEntry Name="Watches.xml" Filter="2" />
+    <FileEntry Name="iParam.dat" Filter="2" />
     <FileEntry Name="combined_Day25_LRParameter_To_C_Variables.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="13842002944.idx" Filter="1" />
+    <FileEntry Name="3784265644.idx" Filter="1" />
     <FileEntry Name="6709476344.idx" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
     <FileEntry Name="Day25_LRParameter_To_C_Variables.c.pickle" Filter="1" />
@@ -38,6 +43,7 @@
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>

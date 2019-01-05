@@ -3,4 +3,7 @@
 #include "globals.h"
 #include "vuser_init.c"
 #include "LR_Parameter_To_CVariables.c"
+#include "LR_Paramter_To_Int.c"
+#include "Convert_IntVariable_To_StringVariable_using_itoaFunction.c"
+#include "Convert_IntVariable_To_StringVariable_using_sPrintfFunction.c"
 #include "vuser_end.c"

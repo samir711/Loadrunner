@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day28_FileUploading
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day28_fileuploading\\logfile.log
+d:\loadrunnerscripts\day28_fileuploading\\combined_Day28_FileUploading.c
+d:\loadrunnerscripts\day28_fileuploading\\pre_cci.c
