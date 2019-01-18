@@ -2,9 +2,17 @@
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 # SharpDevelop 4.1.3.0
-Project("61C11B9B-3467-43CA-8490-375A66B52296") = "Day28_FileUploading", "Day28_FileUploading\Day28_FileUploading.usr", "61C11B9B-3467-43CA-8490-375A66B52296"
+Project("224692B9-D36D-46CB-98BF-0848AA33ED6C") = "Day34_Correlation_Getting_Ticket_UnitPrice", "Day34_Correlation_Getting_Ticket_UnitPrice\Day34_Correlation_Getting_Ticket_UnitPrice.usr", "224692B9-D36D-46CB-98BF-0848AA33ED6C"
 	ProjectSection(CustomLoading) = Data
-		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XExvYWRSdW5uZXJTY3JpcHRzXERheTI4X0ZpbGVVcGxvYWRpbmdcRGF5MjhfRmlsZVVwbG9hZGluZy51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+RDpcTG9hZFJ1bm5lclNjcmlwdHNcRGF5MjhfRmlsZVVwbG9hZGluZ1xEYXkyOF9GaWxlVXBsb2FkaW5nLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XExvYWRSdW5uZXJTY3JpcHRzXERheTM0X0NvcnJlbGF0aW9uX0dldHRpbmdfVGlja2V0X1VuaXRQcmljZVxEYXkzNF9Db3JyZWxhdGlvbl9HZXR0aW5nX1RpY2tldF9Vbml0UHJpY2UudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkQ6XExvYWRSdW5uZXJTY3JpcHRzXERheTM0X0NvcnJlbGF0aW9uX0dldHRpbmdfVGlja2V0X1VuaXRQcmljZVxEYXkzNF9Db3JyZWxhdGlvbl9HZXR0aW5nX1RpY2tldF9Vbml0UHJpY2UudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("D257AAD6-02B4-49EB-850D-A26243F19806") = "Day31_Correlation", "Day31_Correlation\Day31_Correlation.usr", "D257AAD6-02B4-49EB-850D-A26243F19806"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XExvYWRSdW5uZXJTY3JpcHRzXERheTMxX0NvcnJlbGF0aW9uXERheTMxX0NvcnJlbGF0aW9uLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5EYXkzMV9Db3JyZWxhdGlvbi51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQo8L1BlcnNpc3RlbmNlVG9rZW4+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA__
 	EndProjectSection
 	ProjectSection(ExpandInVugen) = Data
 		Value = True
@@ -16,9 +24,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		61C11B9B-3467-43CA-8490-375A66B52296.Debug|Any CPU.Build.0 = Debug|Any CPU
-		61C11B9B-3467-43CA-8490-375A66B52296.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		61C11B9B-3467-43CA-8490-375A66B52296.Release|Any CPU.Build.0 = Release|Any CPU
-		61C11B9B-3467-43CA-8490-375A66B52296.Release|Any CPU.ActiveCfg = Release|Any CPU
+		224692B9-D36D-46CB-98BF-0848AA33ED6C.Debug|Any CPU.Build.0 = Debug|Any CPU
+		224692B9-D36D-46CB-98BF-0848AA33ED6C.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		224692B9-D36D-46CB-98BF-0848AA33ED6C.Release|Any CPU.Build.0 = Release|Any CPU
+		224692B9-D36D-46CB-98BF-0848AA33ED6C.Release|Any CPU.ActiveCfg = Release|Any CPU
+		D257AAD6-02B4-49EB-850D-A26243F19806.Debug|Any CPU.Build.0 = Debug|Any CPU
+		D257AAD6-02B4-49EB-850D-A26243F19806.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		D257AAD6-02B4-49EB-850D-A26243F19806.Release|Any CPU.Build.0 = Release|Any CPU
+		D257AAD6-02B4-49EB-850D-A26243F19806.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal

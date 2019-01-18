@@ -1,0 +1,13 @@
+[t3]
+FileName1=t3.html
+URL1=http://127.0.0.1:1080/WebTours/header.html
+Total=2
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_hp_logo.png
+URL2=http://127.0.0.1:1080/WebTours/images/hp_logo.png
+[ProtocolInfo]
+ProtocolId=QTWeb

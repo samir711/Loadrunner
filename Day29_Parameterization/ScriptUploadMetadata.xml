@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>Day29_Parameterization</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="Day29_Parameterization.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="Day29_Parameterization.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="2" />
+    <FileEntry Name="Bookmarks.xml" Filter="2" />
+    <FileEntry Name="Breakpoints.xml" Filter="2" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="2" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
+    <FileEntry Name="UserTasks.xml" Filter="2" />
+    <FileEntry Name="user_credential.dat" Filter="2" />
+    <FileEntry Name="combined_Day29_Parameterization.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="12359617344.idx" Filter="1" />
+    <FileEntry Name="12359617344_4oE.375.idx" Filter="1" />
+    <FileEntry Name="12359617344_aZY.373.idx" Filter="1" />
+    <FileEntry Name="12359617344_lEO.795.idx" Filter="1" />
+    <FileEntry Name="12359617344_P0y.81.idx" Filter="1" />
+    <FileEntry Name="12359617344_qxY.381.idx" Filter="1" />
+    <FileEntry Name="12359617344_rUK.380.idx" Filter="1" />
+    <FileEntry Name="12359617344_SWe.378.idx" Filter="1" />
+    <FileEntry Name="12359617344_U5y.377.idx" Filter="1" />
+    <FileEntry Name="12359617344_Vgb.374.idx" Filter="1" />
+    <FileEntry Name="12359617344_xlJ.379.idx" Filter="1" />
+    <FileEntry Name="12359617344_Y8k.376.idx" Filter="1" />
+    <FileEntry Name="12359617344_ZyK.382.idx" Filter="1" />
+    <FileEntry Name="14890378944.idx" Filter="1" />
+    <FileEntry Name="14890378944_7D8.592.idx" Filter="1" />
+    <FileEntry Name="14890378944_8Wu.34.idx" Filter="1" />
+    <FileEntry Name="14890378944_AFp.416.idx" Filter="1" />
+    <FileEntry Name="14890378944_da9.458.idx" Filter="1" />
+    <FileEntry Name="14890378944_dqK.272.idx" Filter="1" />
+    <FileEntry Name="14890378944_eEd.652.idx" Filter="1" />
+    <FileEntry Name="14890378944_Fu3.436.idx" Filter="1" />
+    <FileEntry Name="14890378944_KNI.224.idx" Filter="1" />
+    <FileEntry Name="15234714344.idx" Filter="1" />
+    <FileEntry Name="15234714344_7HR.973.idx" Filter="1" />
+    <FileEntry Name="15234714344_C1I.415.idx" Filter="1" />
+    <FileEntry Name="15234714344_DCi.33.idx" Filter="1" />
+    <FileEntry Name="15234714344_Dhe.591.idx" Filter="1" />
+    <FileEntry Name="15234714344_jKH.459.idx" Filter="1" />
+    <FileEntry Name="15234714344_me8.703.idx" Filter="1" />
+    <FileEntry Name="15234714344_pRi.435.idx" Filter="1" />
+    <FileEntry Name="15234714344_QUd.557.idx" Filter="1" />
+    <FileEntry Name="15234714344_Rxr.457.idx" Filter="1" />
+    <FileEntry Name="15234714344_UuY.651.idx" Filter="1" />
+    <FileEntry Name="15234714344_zCW.223.idx" Filter="1" />
+    <FileEntry Name="15234714344_zhO.271.idx" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="Day29_Parameterization.c.pickle" Filter="1" />
+    <FileEntry Name="Day29_Parameterization.ci" Filter="1" />
+    <FileEntry Name="Day29_Parameterization.prm.bak" Filter="1" />
+    <FileEntry Name="Day29_Parameterization.sdf" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="LR_Param_P.dat" Filter="1" />
+    <FileEntry Name="LR_Param_U_Name.dat" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="user_credential1.dat" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

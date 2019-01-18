@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day29_Parameterization
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day29_parameterization\\logfile.log
+d:\loadrunnerscripts\day29_parameterization\\combined_Day29_Parameterization.c
+d:\loadrunnerscripts\day29_parameterization\\pre_cci.c

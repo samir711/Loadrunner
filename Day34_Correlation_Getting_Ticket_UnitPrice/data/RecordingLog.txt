@@ -1,0 +1,1227 @@
+[API Trapper      (5e60: 5c4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      ( f18:310c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1ec4:534c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (5e60:1dd8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5e60:1dd8)] Load Network Traffic Analyzers:
+[Network Analyzer (5e60:1dd8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (5e60:1dd8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (5e60:1dd8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (5e60:1dd8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (5e60:1dd8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (5e60:1dd8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (5e60:1dd8)]     Analyzer Module: local_server (value=)
+[Network Analyzer (5e60:1dd8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5e60:2030)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (5e60:2030)] "GET /WebTours/index.htm"   
+[Network Analyzer (5e60:2030)]   (Sid:  1) Client -> Server @ : 540 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.163:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.222.188.17:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 74.125.24.188:5228   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 49.44.97.148:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[API Trapper      (1f00:64d0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (5e60:2030)]   (Sid:  6) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1310)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 54.222.60.218:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (5e60:6b84)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 31.13.79.35:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 31.13.79.35:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1310)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:2030)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (5e60:1ea4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:6b84)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:2030)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1ea4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.195:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.195:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:46e0)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:46e0)] Request Connection: Remote Server @ 216.239.32.29:80   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (5e60:2030)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.218.208.48:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 22) Server -> Client : 1516 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.218.208.48:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (5e60:1124)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:4100)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (5e60: 5d8)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (5e60:46b8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:5ed4)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:46b8)] Request Connection: Remote Server @ 104.16.241.184:80   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (5e60:2030)] "GET /DigiCertGlobalCAG2.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 25) Client -> Server @ : 143 bytes (Service=HTTP)
+[Network Analyzer (5e60:5ed4)] Request Connection: Remote Server @ 104.16.241.184:80   (Service=)  (Sid= 26)  PROXIED!
+[Web Request      (5e60:2030)] "GET /DigiCertGlobalCAG2.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 26) Client -> Server @ : 143 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 25) Server -> Client : 1656 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 26) Server -> Client : 1656 bytes  (Service=HTTP)
+[Network Analyzer (5e60: d14)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:4d08)]   (Sid: 16) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:5ec8)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.218.249.18:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1fc0)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.218.249.18:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (5e60:4100)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60: 5d8)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1124)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60: d14)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:5ec8)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1fc0)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:3da8)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:3da8)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:515c)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:515c)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.163:80   (Service=)  (Sid= 29)  PROXIED!
+[Web Request      (5e60:2030)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=71"   
+[Network Analyzer (5e60:2030)]   (Sid: 29) Client -> Server @ : 486 bytes (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /DigiCertSHA2HighAssuranceServerCA.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 25) Client -> Server @ : 158 bytes (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /DigiCertGlobalCAG2.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 26) Client -> Server @ : 143 bytes (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:5ed4)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 26) Server -> Client : 1370 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 22) Server -> Client : 1516 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 25) Server -> Client : 1694 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 26) Server -> Client : 286 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (5e60:5238)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:5ed4)] Request Connection: Remote Server @ 216.239.32.29:80   (Service=)  (Sid= 31)  PROXIED!
+[Web Request      (5e60:2030)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 31) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 31) Server -> Client : 1516 bytes  (Service=HTTP)
+[Net An. Error    (5e60: f24)]   (Sid: 23) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Web Request      (5e60:2030)] "GET /WebTours/header.html"   
+[Network Analyzer (5e60:2030)]   (Sid: 34) Client -> Server @ : 593 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 34) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (5e60:5238)] Request Connection: Remote Server @ 91.199.212.52:80   (Service=)  (Sid= 35)  PROXIED!
+[Web Request      (5e60:2030)] "GET /COMODORSADomainValidationSecureServerCA.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 35) Client -> Server @ : 160 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 35) Server -> Client : 1929 bytes  (Service=HTTP)
+[Net An. Error    (5e60:69cc)]   (Sid: 24) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:2030)]   (Sid: 29) Server -> Client : 161 bytes  (Service=HTTP)
+[Net An. Error    (5e60:3e18)]   (Sid: 27) SSL handshake with remote server Failed!
+[Net An. Error    (5e60:6ed4)]   (Sid: 28) SSL handshake with remote server Failed!
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:384c)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:621c)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:6608)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 18) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 38)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (5e60:2030)]   (Sid: 34) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (5e60:621c)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:6608)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:384c)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 34) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 34) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:6a38)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:4590)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[API Trapper      (4b90:18b4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (5e60:1774)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:3c78)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 30) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (5e60:6a38)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:4590)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:3c78)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1774)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Web Request      (5e60:2030)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid: 22) Server -> Client : 1370 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 22) Server -> Client : 146 bytes  (Service=HTTP)
+[Network Analyzer (5e60:4acc)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:13f0)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:55a4)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:34e0)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 34) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.218.249.138:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid: 37) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.218.241.89:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:55a4)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:13f0)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:4acc)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:34e0)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:2030)]   (Sid: 40) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid: 41) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (5e60:2030)]   (Sid: 48) Client -> Server @ : 508 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Web Request      (5e60:2030)] "GET /WebTours/home.html"   
+[Network Analyzer (5e60:2030)]   (Sid: 49) Client -> Server @ : 604 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 49) Server -> Client : 194 bytes  (Service=HTTP)
+[Net An. Error    (5e60:16f8)]   (Sid: 44) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:2030)]   (Sid: 48) Server -> Client : 1753 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 48) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Error    (5e60:361c)]   (Sid: 45) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:6c1c)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:652c)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 43) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid: 35) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.16.53:443   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:6c1c)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:652c)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:62d4)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:62d4)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1f6c)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 74.125.24.188:443   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:166c)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:6a58)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer (5e60:3d44)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 48) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer (5e60:1f6c)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:6a58)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:166c)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:3d44)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:5884)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:  60)]   (Sid: 56) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 46) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:5884)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:  60)]   (Sid: 56) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 58)  PROXIED!
+[Web Request      (5e60:2030)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 31) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 31) Server -> Client : 1370 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 31) Server -> Client : 146 bytes  (Service=HTTP)
+[Net An. Error    (5e60:6dd8)]   (Sid: 57) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:4134)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 50) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 51) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 56) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 59)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.196.78:443   (Service=)  (Sid= 60)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 61)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:4134)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid= 62)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:53cc)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 63)  PROXIED!
+[Network Analyzer (5e60:53cc)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:6258)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60: 920)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 58) Connection Terminated (by Server)
+[Network Analyzer (5e60:6cf0)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2d08)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 54) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 64)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:6258)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (5e60:5238)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 65)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:6cf0)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60: 920)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Net An. Error    (5e60:2d08)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 66)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid: 62) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Web Request      (5e60:2030)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 22) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid= 67)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 22) Server -> Client : 1516 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 63) Connection Terminated (by Client)
+[Network Analyzer (5e60:5238)] Request Connection: Remote Server @ 91.199.212.52:80   (Service=)  (Sid= 68)  PROXIED!
+[Network Analyzer (5e60:44f0)]   (Sid: 64) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (5e60:2030)] "GET /COMODORSADomainValidationSecureServerCA.crt"   
+[Network Analyzer (5e60:2030)]   (Sid: 68) Client -> Server @ : 160 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 69)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 68) Server -> Client : 1929 bytes  (Service=HTTP)
+[Network Analyzer (5e60:4ecc)]   (Sid: 65) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:5f24)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:4a1c)]   (Sid: 67) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:20f8)]   (Sid: 69) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 70)  PROXIED!
+[Web Request      (5e60:2030)] "GET /favicon.ico"   
+[Network Analyzer (5e60:2030)]   (Sid: 70) Client -> Server @ : 408 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 70) Server -> Client : 425 bytes  (Service=HTTP)
+[Net An. Error    (5e60:4a1c)]   (Sid: 67) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4ecc)]   (Sid: 65) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:44f0)]   (Sid: 64) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:20f8)]   (Sid: 69) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:5f24)]   (Sid: 66) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 71)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid: 64) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 65) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 67) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 69) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 66) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 72)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1d24)]   (Sid: 71) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 73)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 74)  PROXIED!
+[Net An. Error    (5e60:1d24)]   (Sid: 71) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 71) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 75)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:3dcc)]   (Sid: 72) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 76)  PROXIED!
+[Net An. Error    (5e60:3dcc)]   (Sid: 72) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 72) Connection Terminated (by Client)
+[Network Analyzer (5e60:5c34)]   (Sid: 73) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:5c34)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 73) Connection Terminated (by Client)
+[Network Analyzer (5e60:451c)]   (Sid: 74) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:451c)]   (Sid: 74) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 74) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 77)  PROXIED!
+[Network Analyzer (5e60:2930)]   (Sid: 75) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:2930)]   (Sid: 75) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 75) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 78)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:44e8)]   (Sid: 76) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.196.78:443   (Service=)  (Sid= 79)  PROXIED!
+[Net An. Error    (5e60:44e8)]   (Sid: 76) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 76) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 80)  PROXIED!
+[Network Analyzer (5e60:3434)]   (Sid: 77) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:3434)]   (Sid: 77) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 77) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.27.206:443   (Service=)  (Sid= 81)  PROXIED!
+[Network Analyzer (5e60:2c90)]   (Sid: 78) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:162c)]   (Sid: 79) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 60) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 59) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 61) Connection Terminated (by Client)
+[Network Analyzer (5e60:2b2c)]   (Sid: 80) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1bc8)]   (Sid: 81) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid: 25) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:162c)]   (Sid: 79) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2c90)]   (Sid: 78) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2b2c)]   (Sid: 80) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:1bc8)]   (Sid: 81) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 79) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.196.78:443   (Service=)  (Sid= 82)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 83)  PROXIED!
+[Network Analyzer (5e60:6084)]   (Sid: 82) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 70) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid: 78) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 80) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 81) Connection Terminated (by Client)
+[Network Analyzer (5e60:59a8)]   (Sid: 83) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 52.72.230.5:443   (Service=)  (Sid= 84)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:59a8)]   (Sid: 83) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:6084)]   (Sid: 82) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 85)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.196.78:443   (Service=)  (Sid= 86)  PROXIED!
+[Network Analyzer (5e60:4218)]   (Sid: 84) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:5660)]   (Sid: 85) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:31c4)]   (Sid: 86) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 82) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid: 83) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 68) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:5660)]   (Sid: 85) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4218)]   (Sid: 84) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:31c4)]   (Sid: 86) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid: 84) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 85) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 86) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 87)  PROXIED!
+[Net An. Error    (5e60:27dc)] SSL_connect(ssl_id = 2114875696 = 000002737E0E7130) Failed, ctx = 000002737E061E90, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (5e60:27dc)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid= 88)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 89)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.170:443   (Service=)  (Sid= 90)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid= 91)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:27dc)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 92)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.202:443   (Service=)  (Sid= 93)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 94)  PROXIED!
+[Net An. Error    (5e60:13ec)]   (Sid: 87) SSL handshake with remote server Failed!
+[Network Analyzer (5e60:4448)]   (Sid: 88) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:5f84)]   (Sid: 89) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:6804)]   (Sid: 90) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:13d0)]   (Sid: 91) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:6370)]   (Sid: 92) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2a6c)]   (Sid: 93) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:5a88)]   (Sid: 94) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.196.78:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 74.125.68.188:5228   (Service=)  (Sid= 95)  PROXIED!
+[Net An. Error    (5e60:4448)]   (Sid: 88) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:6804)]   (Sid: 90) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:13d0)]   (Sid: 91) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:5f84)]   (Sid: 89) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:6370)]   (Sid: 92) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:5a88)]   (Sid: 94) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2a6c)]   (Sid: 93) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:4398)]   (Sid: 95) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid: 88) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 89) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 90) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 91) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 92) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 93) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 94) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:4398)]   (Sid: 95) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 95) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 96)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid= 97)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid= 98)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 99)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Web Request      (5e60:2030)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (5e60:2030)]   (Sid: 99) Client -> Server @ : 736 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=100)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2a48)]   (Sid: 96) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=101)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid: 99) Server -> Client : 680 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 99) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Error    (5e60:2a48)]   (Sid: 96) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 96) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=102)  PROXIED!
+[Network Analyzer (5e60:2384)]   (Sid: 98) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:2384)]   (Sid: 98) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 98) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=103)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.35:443   (Service=)  (Sid=104)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/nav.pl?username=&password="   
+[Network Analyzer (5e60:2030)]   (Sid: 99) Client -> Server @ : 505 bytes (Service=HTTP)
+[Network Analyzer (5e60:6068)]   (Sid: 97) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=105)  PROXIED!
+[Net An. Error    (5e60:6068)]   (Sid: 97) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 99) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid: 97) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid: 99) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /cgi-bin/error.pl?error=badPassword"   
+[Network Analyzer (5e60:2030)]   (Sid:105) Client -> Server @ : 505 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=106)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:105) Server -> Client : 1253 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:105) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:44dc)]   (Sid:100) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=107)  PROXIED!
+[Net An. Error    (5e60:44dc)]   (Sid:100) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:100) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=108)  PROXIED!
+[Network Analyzer (5e60:36a8)]   (Sid:101) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:36a8)]   (Sid:101) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:101) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=109)  PROXIED!
+[Network Analyzer (5e60:6da0)]   (Sid:102) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:6da0)]   (Sid:102) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:102) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=110)  PROXIED!
+[Network Analyzer (5e60: d9c)]   (Sid:103) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60: d9c)]   (Sid:103) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dbc)]   (Sid:104) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:6640)]   (Sid:106) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2fb8)]   (Sid:107) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:34ac)]   (Sid:108) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:103) Connection Terminated (by Client)
+[Network Analyzer (5e60:2b08)]   (Sid:109) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:4ed0)]   (Sid:110) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dbc)]   (Sid:104) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2fb8)]   (Sid:107) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4ed0)]   (Sid:110) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2b08)]   (Sid:109) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:6640)]   (Sid:106) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:34ac)]   (Sid:108) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:104) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.35:443   (Service=)  (Sid=111)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid: 99) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:105) Connection Terminated (by Server)
+[Network Analyzer (5e60:2a60)]   (Sid:111) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid:107) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:110) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:2a60)]   (Sid:111) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=112)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:106) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:108) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:109) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=113)  PROXIED!
+[Network Analyzer (5e60:5688)]   (Sid:112) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60: 5e4)]   (Sid:113) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:111) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=114)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=115)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.35:80   (Service=)  (Sid=116)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:5688)]   (Sid:112) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60: 5e4)]   (Sid:113) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (5e60:2030)] "POST /service/update2?cup2key=8:3476837551&cup2hreq=bb1effe91bb4c153b46312f9cdeee03edf5f1e59c71b011a81c7dd8ed282bc05"   
+[Network Analyzer (5e60:2030)]   (Sid:116) Client -> Server @ : 5234 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=117)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:113) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:6c20)]   (Sid:114) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:112) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=118)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:6c20)]   (Sid:114) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=119)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:114) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=120)  PROXIED!
+[Network Analyzer (5e60:3e14)]   (Sid:115) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:3e14)]   (Sid:115) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:116) Server -> Client : 851 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:115) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:116) Server -> Client : 585 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=121)  PROXIED!
+[Network Analyzer (5e60: a24)]   (Sid:117) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:4f10)]   (Sid:118) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:57fc)]   (Sid:119) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2fd8)]   (Sid:120) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60: a78)]   (Sid:121) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60: a24)]   (Sid:117) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:57fc)]   (Sid:119) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4f10)]   (Sid:118) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2fd8)]   (Sid:120) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60: a78)]   (Sid:121) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:117) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:118) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:119) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=122)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:47fc)]   (Sid:122) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=123)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:120) Connection Terminated (by Client)
+[Net An. Error    (5e60:47fc)]   (Sid:122) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:5594)]   (Sid:123) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:5594)]   (Sid:123) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:122) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:123) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=124)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:121) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=125)  PROXIED!
+[Network Analyzer (5e60:6604)]   (Sid:124) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:6604)]   (Sid:124) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:124) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=126)  PROXIED!
+[Network Analyzer (5e60: c90)]   (Sid:125) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60: c90)]   (Sid:125) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:125) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=127)  PROXIED!
+[Network Analyzer (5e60:6af4)]   (Sid:126) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:6af4)]   (Sid:126) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:126) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=128)  PROXIED!
+[Network Analyzer (5e60:2638)]   (Sid:127) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:2638)]   (Sid:127) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:29c8)]   (Sid:128) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:29c8)]   (Sid:128) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:127) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:128) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=129)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=130)  PROXIED!
+[Network Analyzer (5e60:57e8)]   (Sid:129) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:4890)]   (Sid:130) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:57e8)]   (Sid:129) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4890)]   (Sid:130) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=131)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:129) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:130) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=132)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=133)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60: 514)]   (Sid:131) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:445c)]   (Sid:132) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:171c)]   (Sid:133) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:445c)]   (Sid:132) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:171c)]   (Sid:133) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60: 514)]   (Sid:131) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:131) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:132) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:133) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=134)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=135)  PROXIED!
+[Network Analyzer (5e60:3558)]   (Sid:134) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:3558)]   (Sid:134) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:134) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=136)  PROXIED!
+[Network Analyzer (5e60:246c)]   (Sid:135) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2228)]   (Sid:136) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:246c)]   (Sid:135) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2228)]   (Sid:136) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=137)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:135) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:136) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 130.211.26.229:443   (Service=)  (Sid=138)  PROXIED!
+[Network Analyzer (5e60:2dc4)]   (Sid:137) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:2dc4)]   (Sid:137) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:6dd4)]   (Sid:138) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid:137) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:6dd4)]   (Sid:138) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=139)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=140)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:138) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=141)  PROXIED!
+[Web Request      (5e60:2030)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (5e60:2030)]   (Sid:141) Client -> Server @ : 756 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:141) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:141) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1d78)]   (Sid:139) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (5e60:2030)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (5e60:2030)]   (Sid:141) Client -> Server @ : 613 bytes (Service=HTTP)
+[Net An. Error    (5e60:1d78)]   (Sid:139) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=142)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (5e60:2030)]   (Sid:142) Client -> Server @ : 608 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:141) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:141) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:5518)]   (Sid:140) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:142) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:142) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:139) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=143)  PROXIED!
+[Web Request      (5e60:2030)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:142) Client -> Server @ : 548 bytes (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:141) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:142) Server -> Client : 1023 bytes  (Service=HTTP)
+[Net An. Error    (5e60:5518)]   (Sid:140) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:141) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=144)  PROXIED!
+[Web Request      (5e60:2030)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:144) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=145)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:144) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:145) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:140) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:145) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (5e60:3e4c)]   (Sid:143) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:3e4c)]   (Sid:143) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:143) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=146)  PROXIED!
+[Network Analyzer (5e60:3ee4)]   (Sid:146) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:3ee4)]   (Sid:146) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=147)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:146) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=148)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (5e60:2030)]   (Sid:145) Client -> Server @ : 627 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:145) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:145) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:34ec)]   (Sid:147) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:34ec)]   (Sid:147) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60: 760)]   (Sid:148) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:142) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:141) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:144) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60: 760)]   (Sid:148) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:147) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=149)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (5e60:2030)]   (Sid:145) Client -> Server @ : 630 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:145) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:145) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:148) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=150)  PROXIED!
+[Web Request      (5e60:2030)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:145) Client -> Server @ : 554 bytes (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:150) Client -> Server @ : 631 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:145) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=151)  PROXIED!
+[Network Analyzer (5e60:67ac)]   (Sid:149) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:67ac)]   (Sid:149) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:150) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:149) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:150) Server -> Client : 286 bytes  (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:151) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:151) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:151) Client -> Server @ : 556 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:151) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=152)  PROXIED!
+[Network Analyzer (5e60:324c)]   (Sid:152) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:324c)]   (Sid:152) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=153)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=154)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=155)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:23cc)]   (Sid:153) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2808)]   (Sid:154) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:145) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:152) Connection Terminated (by Client)
+[Network Analyzer (5e60:35d0)]   (Sid:155) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:151) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:150) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:2808)]   (Sid:154) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:23cc)]   (Sid:153) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:35d0)]   (Sid:155) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:153) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:154) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=156)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=157)  PROXIED!
+[Network Analyzer (5e60:5c28)]   (Sid:156) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:5c28)]   (Sid:156) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:156) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=158)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:155) Connection Terminated (by Client)
+[Network Analyzer (5e60:4578)]   (Sid:157) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60: 4f4)]   (Sid:158) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60: 4f4)]   (Sid:158) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4578)]   (Sid:157) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:158) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=159)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:5f98)]   (Sid:159) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:2030)]   (Sid:157) Connection Terminated (by Client)
+[Net An. Error    (5e60:5f98)]   (Sid:159) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:159) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=160)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=161)  PROXIED!
+[Network Analyzer (5e60:6aec)]   (Sid:160) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:6aec)]   (Sid:160) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:160) Connection Terminated (by Client)
+[Web Request      (5e60:2030)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (5e60:2030)]   (Sid:161) Client -> Server @ : 989 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=162)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:161) Server -> Client : 2699 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:161) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:32cc)]   (Sid:162) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=163)  PROXIED!
+[Net An. Error    (5e60:32cc)]   (Sid:162) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:162) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=164)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=165)  PROXIED!
+[Network Analyzer (5e60:2850)]   (Sid:163) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:2850)]   (Sid:163) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:3f04)]   (Sid:164) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:3f04)]   (Sid:164) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:163) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:164) Connection Terminated (by Client)
+[Network Analyzer (5e60:2c28)]   (Sid:165) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:161) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Error    (5e60:2c28)]   (Sid:165) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=166)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:165) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid=167)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=168)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:3fa4)]   (Sid:166) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2924)]   (Sid:167) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:32a0)]   (Sid:168) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=169)  PROXIED!
+[Net An. Error    (5e60:3fa4)]   (Sid:166) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:2924)]   (Sid:167) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:32a0)]   (Sid:168) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:166) Connection Terminated (by Client)
+[Web Request      (5e60:2030)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (5e60:2030)]   (Sid:169) Client -> Server @ : 882 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=170)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.166.173:443   (Service=)  (Sid=171)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:169) Server -> Client : 2961 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:167) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:168) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:169) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:4fb4)]   (Sid:170) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:4fb4)]   (Sid:170) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:170) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=172)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:5be8)]   (Sid:171) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=173)  PROXIED!
+[Net An. Error    (5e60:5be8)]   (Sid:171) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:6afc)]   (Sid:172) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:171) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:6eb0)]   (Sid:173) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (5e60:2030)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (5e60:2030)]   (Sid:169) Client -> Server @ : 1023 bytes (Service=HTTP)
+[Net An. Error    (5e60:6afc)]   (Sid:172) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:6eb0)]   (Sid:173) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:169) Server -> Client : 2829 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:172) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:169) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=174)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:173) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=175)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=176)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2e20)]   (Sid:174) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:1f1c)]   (Sid:175) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:4a84)]   (Sid:176) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (5e60:2030)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (5e60:2030)]   (Sid:169) Client -> Server @ : 519 bytes (Service=HTTP)
+[Net An. Error    (5e60:2e20)]   (Sid:174) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:1f1c)]   (Sid:175) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5e60:4a84)]   (Sid:176) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:169) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:174) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:175) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=177)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:176) Connection Terminated (by Client)
+[Network Analyzer (5e60:33c4)]   (Sid:177) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:33c4)]   (Sid:177) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:177) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:169) Connection Terminated (by Server)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=178)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Web Request      (5e60:2030)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (5e60:2030)]   (Sid:178) Client -> Server @ : 605 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=179)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:178) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:178) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=180)  PROXIED!
+[Web Request      (5e60:2030)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (5e60:2030)]   (Sid:178) Client -> Server @ : 602 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=181)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:178) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:178) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (5e60:2030)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (5e60:2030)]   (Sid:181) Client -> Server @ : 597 bytes (Service=HTTP)
+[Network Analyzer (5e60:2e50)]   (Sid:179) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:2e50)]   (Sid:179) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:181) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:179) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:181) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=182)  PROXIED!
+[Network Analyzer (5e60:455c)]   (Sid:180) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:455c)]   (Sid:180) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:180) Connection Terminated (by Client)
+[Network Analyzer (5e60:1bf8)]   (Sid:182) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (5e60:2030)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (5e60:2030)]   (Sid:181) Client -> Server @ : 601 bytes (Service=HTTP)
+[Net An. Error    (5e60:1bf8)]   (Sid:182) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:181) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:181) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:182) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:178) Connection Terminated (by Server)
+[Network Analyzer (5e60:2030)]   (Sid:181) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.194.188:443   (Service=)  (Sid=183)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=184)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=185)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=186)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Web Request      (5e60:2030)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (5e60:2030)]   (Sid:186) Client -> Server @ : 505 bytes (Service=HTTP)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=187)  PROXIED!
+[Web Request      (5e60:2030)] "GET /WebTours/home.html"   
+[Network Analyzer (5e60:2030)]   (Sid:187) Client -> Server @ : 601 bytes (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:187) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:186) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (5e60:2030)]   (Sid:186) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5e60:23f4)]   (Sid:183) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:23f4)]   (Sid:183) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:183) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=188)  PROXIED!
+[Network Analyzer (5e60:13a4)]   (Sid:184) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:13a4)]   (Sid:184) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:184) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=189)  PROXIED!
+[Network Analyzer (5e60:397c)]   (Sid:185) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:397c)]   (Sid:185) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:185) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=190)  PROXIED!
+[Network Analyzer (5e60:3eb0)]   (Sid:188) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:3eb0)]   (Sid:188) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2030)]   (Sid:188) Connection Terminated (by Client)
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=191)  PROXIED!
+[Network Analyzer (5e60:18c8)]   (Sid:189) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:18c8)]   (Sid:189) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60: a04)]   (Sid:190) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60: a04)]   (Sid:190) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:6ff0)]   (Sid:191) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (5e60:6ff0)]   (Sid:191) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5e60:2030)]   (Sid:189) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:190) Connection Terminated (by Client)
+[Network Analyzer (5e60:2030)]   (Sid:191) Connection Terminated (by Client)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5e60:1dd8)] Request Connection: Remote Server @ 0000:0000:0000:0000:0000:0000:0000:0001 - 50000  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 172.217.160.174:443   (Service=)  (Sid=192)  PROXIED!
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:1dd8)] Request Connection: Remote Server @ 216.58.199.170:443   (Service=)  (Sid=193)  PROXIED!
+[Network Analyzer (5e60:2030)]   (Sid:187) Connection Terminated (by Server)
+[Network Analyzer (5e60:1dd8)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (5e60:2a8c)]   (Sid:192) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (5e60:2030)]   (Sid:186) Connection Terminated (by Server)
+[Network Analyzer (5e60:33ac)]   (Sid:193) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5e60:1dd8)] Request Connection: Remote Server @ 127.0.0.1:50000 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)

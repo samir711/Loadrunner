@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day31_Correlation
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day31_correlation\\logfile.log
+d:\loadrunnerscripts\day31_correlation\\combined_Day31_Correlation.c
+d:\loadrunnerscripts\day31_correlation\\pre_cci.c

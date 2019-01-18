@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Denver&departDate=01%2F17%2F2019&arrive=London&returnDate=01%2F18%2F2"
+"019&numPassengers=1&seatPref=None&seatType=Coach&findFlights.x=59&findFlights.y=10&.cgifields="
+"roundtrip&.cgifields=seatType&.cgifields=seatPref"

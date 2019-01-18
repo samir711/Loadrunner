@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Day34_Correlation_Getting_Ticket_UnitPrice
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunnerscripts\day34_correlation_getting_ticket_unitprice\\logfile.log
+d:\loadrunnerscripts\day34_correlation_getting_ticket_unitprice\\combined_Day34_Correlation_Getting_Ticket_UnitPrice.c
+d:\loadrunnerscripts\day34_correlation_getting_ticket_unitprice\\pre_cci.c

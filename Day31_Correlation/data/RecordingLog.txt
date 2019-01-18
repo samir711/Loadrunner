@@ -1,0 +1,348 @@
+[API Trapper      (1190:1034)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (115c:10fc)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (11e8:3d64)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1190:1268)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1190:1268)] Load Network Traffic Analyzers:
+[Network Analyzer (1190:1268)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1190:1268)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1190:1268)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1190:1268)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1190:1268)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1190:1268)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1190:1268)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1190:1268)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1190:2390)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid:  1) Client -> Server @ : 222 bytes (Service=HTTP)
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid:  2) Client -> Server @ : 255 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid:  1) Server -> Client : 75 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (1190:2390)] "GET /WebTours/index.htm"   
+[Network Analyzer (1190:2390)]   (Sid:  3) Client -> Server @ : 412 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid:  3) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 74.125.68.188:5228   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.167.13:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 216.58.220.163:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.167.46:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 12)  PROXIED!
+[API Trapper      (31f0:2f38)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Net An. Error    (1190:31cc)]   (Sid:  7) SSL handshake with remote server Failed!
+[Network Analyzer (1190:25ac)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1190:25ac)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1190:2dd8)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2dd8)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:31a8)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1190:31a8)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1190:25c8)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1190:31a0)] SSL_connect(ssl_id = -768956800 = 000001D0D22AA680) Failed, ctx = 000001D0D22AA370, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (1190:31a0)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Net An. Error    (1190:25c8)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1190:31a0)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid: 13) Client -> Server @ : 222 bytes (Service=HTTP)
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid: 14) Client -> Server @ : 255 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 13) Server -> Client : 75 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (1190:2390)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (1190:2390)]   (Sid: 15) Client -> Server @ : 476 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1f50)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 74.125.68.188:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.167.13:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid: 15) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1190:298c)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:298c)] Request Connection: Remote Server @ 216.239.32.29:80   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Web Request      (1190:2390)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1190:2390)]   (Sid: 20) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 154 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1f50)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 216.58.220.163:80   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (1190:2390)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=71"   
+[Network Analyzer (1190:2390)]   (Sid: 23) Client -> Server @ : 486 bytes (Service=HTTP)
+[Web Request      (1190:2390)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1190:2390)]   (Sid: 15) Client -> Server @ : 508 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (1190:2390)] "GET /WebTours/home.html"   
+[Network Analyzer (1190:2390)]   (Sid: 24) Client -> Server @ : 604 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 24) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 15) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1190:2390)] "GET /favicon.ico"   
+[Network Analyzer (1190:2390)]   (Sid: 15) Client -> Server @ : 408 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 15) Server -> Client : 424 bytes  (Service=HTTP)
+[Net An. Error    (1190:4304)]   (Sid: 17) SSL handshake with remote server Failed!
+[Network Analyzer (1190:2390)]   (Sid: 23) Server -> Client : 161 bytes  (Service=HTTP)
+[Network Analyzer (1190:4308)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4308)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:430c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:430c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:4310)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4310)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1190:2390)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1190:2390)]   (Sid: 20) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 154 bytes  (Service=HTTP)
+[Web Request      (1190:2390)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1190:2390)]   (Sid: 20) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (1190:4314)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 154 bytes  (Service=HTTP)
+[Network Analyzer (1190:4314)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1190:2390)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1190:2390)]   (Sid: 20) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 1514 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (1190:4344)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4344)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (1190:4354)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4354)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (1190:4358)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4358)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1190:4364)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4364)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (1190:4384)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:4384)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:4388)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 31)  PROXIED!
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid: 31) Client -> Server @ : 255 bytes (Service=HTTP)
+[Network Analyzer (1190:4388)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 31) Server -> Client : 75 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.167.13:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (1190:2e0c)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2e0c)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2e50)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2e50)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (1190:2b34)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2b34)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1210)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:1210)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (1190: 970)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190: 970)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (1190:410c)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2390)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (1190:410c)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 36) Connection Terminated (by Client)
+[API Trapper      (1574:1e7c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1190:2390)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 38) Connection Terminated (by Client)
+[API Trapper      (1b20:162c)] Recording in 64-bit mode: C:\Users\samir\AppData\Local\Google\Chrome\User Data\SwReporter\36.184.200\software_reporter_tool.exe
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (1190:3130)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:3130)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (1190:3230)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:3230)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2de4)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2de4)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 42)  PROXIED!
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid: 42) Client -> Server @ : 255 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 42) Server -> Client : 75 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 41) Connection Terminated (by Client)
+[API Trapper      (4150:417c)] Recording in 64-bit mode: C:\Users\samir\AppData\Local\Google\Chrome\User Data\SwReporter\36.184.200\software_reporter_tool.exe
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.167.13:443   (Service=)  (Sid= 44)  PROXIED!
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid: 43) Client -> Server @ : 222 bytes (Service=HTTP)
+[Network Analyzer (1190:4238)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:2390)]   (Sid: 43) Connection Terminated (by Server)
+[Network Analyzer (1190:4238)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (1190:1eb8)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:1eb8)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 46)  PROXIED!
+[Web Request      (1190:2390)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (1190:2390)]   (Sid: 46) Client -> Server @ : 743 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 46) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 46) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.238:443   (Service=)  (Sid= 47)  PROXIED!
+[Web Request      (1190:2390)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (1190:2390)]   (Sid: 46) Client -> Server @ : 613 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Web Request      (1190:2390)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (1190:2390)]   (Sid: 48) Client -> Server @ : 608 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 46) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 46) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 48) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 48) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1190:308c)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Web Request      (1190:2390)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (1190:2390)]   (Sid: 49) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 49) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:2390)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (1190:308c)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 51)  PROXIED!
+[Web Request      (1190:2390)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (1190:2390)]   (Sid: 46) Client -> Server @ : 550 bytes (Service=HTTP)
+[Web Request      (1190:2390)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (1190:2390)]   (Sid: 50) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 46) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 50) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (1190:2390)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (1190:2390)]   (Sid: 51) Client -> Server @ : 548 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 51) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 42) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.167.46:443   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (1190:42c4)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:42c4)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (1190:42c8)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:42c8)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:42d4)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (1190:2390)] "GET /gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1190:2390)]   (Sid: 20) Client -> Server @ : 126 bytes (Service=HTTP)
+[Network Analyzer (1190:42d4)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 20) Server -> Client : 1514 bytes  (Service=HTTP)
+[Network Analyzer (1190:344c)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1190:344c)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1190:2390)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 48) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 50) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 51) Connection Terminated (by Server)
+[Network Analyzer (1190:2390)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 54) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer (1190:2390)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 91.121.165.174:80   (Service=)  (Sid= 56)  PROXIED!
+[Web Request      (1190:2390)] "GET /wpad.dat"   
+[Network Analyzer (1190:2390)]   (Sid: 56) Client -> Server @ : 222 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 56) Server -> Client : 75 bytes  (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 57)  PROXIED!
+[Web Request      (1190:2390)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (1190:2390)]   (Sid: 57) Client -> Server @ : 625 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 57) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 57) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1190:2390)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1190:2390)]   (Sid: 57) Client -> Server @ : 505 bytes (Service=HTTP)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
+[Network Analyzer (1190:1268)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 58)  PROXIED!
+[Network Analyzer (1190:2390)]   (Sid: 57) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 57) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1190:2390)] "GET /WebTours/home.html"   
+[Network Analyzer (1190:2390)]   (Sid: 58) Client -> Server @ : 601 bytes (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 58) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (1190:2390)]   (Sid: 56) Connection Terminated (by Server)
+[Network Analyzer (1190:1268)] Address lookup for samir-pc3 = 10.0.75.1
